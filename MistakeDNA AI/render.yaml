@@ -1,0 +1,48 @@
+# Upload this project to GitHub, then create a Render Blueprint from that repository.
+# These are PAID resource plans. Review Render's resource estimate before deploying.
+services:
+  - type: web
+    name: mistakedna-ai
+    runtime: docker
+    region: singapore
+    plan: 0.5c-512mb
+    dockerfilePath: ./Dockerfile
+    dockerContext: .
+    numInstances: 1
+    healthCheckPath: /api/health
+    preDeployCommand: python -m alembic -c backend/alembic.ini upgrade head
+    envVars:
+      - key: DATABASE_URL
+        fromDatabase:
+          name: mistakedna-db
+          property: connectionString
+      - key: APP_ENV
+        value: production
+      - key: COOKIE_SECURE
+        value: "true"
+      - key: RUN_MIGRATIONS
+        value: "false"
+      - key: ALLOW_REGISTRATION
+        value: "true"
+      - key: OFFLINE_AI_ENABLED
+        value: "true"
+      - key: OPENBLAS_NUM_THREADS
+        value: "1"
+      - key: OMP_NUM_THREADS
+        value: "1"
+      - key: TUTOR_REQUESTS_PER_HOUR
+        value: "20"
+      - key: FORWARDED_ALLOW_IPS
+        value: "*"
+    # APP_ORIGIN automatically uses RENDER_EXTERNAL_URL.
+    # For a custom domain, add APP_ORIGIN=https://your-domain.example in Render.
+    # The tutor uses bundled custom weights. No model endpoint or API key is needed.
+
+databases:
+  - name: mistakedna-db
+    region: singapore
+    plan: 0.1c-256mb
+    databaseName: mistakedna
+    user: mistakedna
+    diskSizeGB: 5
+    ipAllowList: []

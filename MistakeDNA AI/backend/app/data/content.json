@@ -1,0 +1,638 @@
+{
+  "questions": [
+    {
+      "id": "c1",
+      "subject": "Chemistry",
+      "grade": 11,
+      "chapter": "Chemical Equilibrium",
+      "skill": "dynamic",
+      "difficulty": 1,
+      "prompt": "At chemical equilibrium in a closed system, which statement is correct?",
+      "options": [
+        "Both reactions stop",
+        "Forward and reverse rates are equal",
+        "Reactant and product concentrations are equal",
+        "Only the forward reaction continues"
+      ],
+      "answer": "1",
+      "explanation": "Both reactions continue at equal rates. Constant concentration does not mean equal concentration.",
+      "hint": "Distinguish a reaction rate from a concentration.",
+      "misconceptions": {
+        "0": "Conceptual: equilibrium may be treated as static",
+        "2": "Conceptual: constant and equal concentrations may be confused",
+        "3": "Conceptual: reversibility may be overlooked"
+      },
+      "type": "mcq"
+    },
+    {
+      "id": "c2",
+      "subject": "Chemistry",
+      "grade": 11,
+      "chapter": "Chemical Equilibrium",
+      "skill": "dynamic",
+      "difficulty": 2,
+      "prompt": "At equilibrium, the forward rate is 0.04 mol L⁻¹ s⁻¹. What is the reverse rate?",
+      "options": [
+        "0",
+        "0.02 mol L⁻¹ s⁻¹",
+        "0.04 mol L⁻¹ s⁻¹",
+        "It cannot be determined"
+      ],
+      "answer": "2",
+      "explanation": "At equilibrium forward and reverse rates are equal, so the reverse rate is 0.04 mol L⁻¹ s⁻¹.",
+      "hint": "Apply the defining condition of dynamic equilibrium.",
+      "misconceptions": {
+        "0": "Conceptual: reverse reaction may be assumed to stop",
+        "3": "Recall: equilibrium rate condition may need checking"
+      },
+      "type": "mcq"
+    },
+    {
+      "id": "c3",
+      "subject": "Chemistry",
+      "grade": 11,
+      "chapter": "Chemical Equilibrium",
+      "skill": "mass",
+      "difficulty": 1,
+      "prompt": "For N₂(g) + 3H₂(g) ⇌ 2NH₃(g), which is Kc?",
+      "options": [
+        "[NH₃]/([N₂][H₂])",
+        "[NH₃]²/([N₂][H₂]³)",
+        "[N₂][H₂]³/[NH₃]²",
+        "2[NH₃]/(3[N₂][H₂])"
+      ],
+      "answer": "1",
+      "explanation": "Products form the numerator; coefficients become powers: [NH₃]²/([N₂][H₂]³).",
+      "hint": "Use coefficients as powers, not multipliers.",
+      "misconceptions": {
+        "0": "Procedural: stoichiometric powers may be missing",
+        "2": "Procedural: numerator and denominator may be reversed",
+        "3": "Procedural: coefficients may be used as multipliers"
+      },
+      "type": "mcq"
+    },
+    {
+      "id": "c4",
+      "subject": "Chemistry",
+      "grade": 11,
+      "chapter": "Chemical Equilibrium",
+      "skill": "mass",
+      "difficulty": 2,
+      "prompt": "For CaCO₃(s) ⇌ CaO(s) + CO₂(g), which is Kc?",
+      "options": [
+        "[CaO][CO₂]/[CaCO₃]",
+        "[CO₂]",
+        "1/[CO₂]",
+        "[CaCO₃]/[CaO]"
+      ],
+      "answer": "1",
+      "explanation": "Activities of pure solids are unity; only the gaseous CO₂ concentration remains.",
+      "hint": "Which substances have unit activity?",
+      "misconceptions": {
+        "0": "Conceptual: pure solids may be included in the expression",
+        "2": "Procedural: product term may be inverted"
+      },
+      "type": "mcq"
+    },
+    {
+      "id": "c5",
+      "subject": "Chemistry",
+      "grade": 11,
+      "chapter": "Chemical Equilibrium",
+      "skill": "kc",
+      "difficulty": 2,
+      "prompt": "For A ⇌ B, equilibrium [A] = 0.20 M and [B] = 0.60 M. Calculate Kc.",
+      "options": [
+        "0.33",
+        "0.12",
+        "3",
+        "0.80"
+      ],
+      "answer": "2",
+      "explanation": "For this 1:1 reaction, Kc = [B]/[A] = 0.60/0.20 = 3. The equilibrium ratio favors products.",
+      "hint": "Put the product concentration above the reactant concentration.",
+      "misconceptions": {
+        "0": "Procedural: equilibrium ratio may be inverted",
+        "1": "Procedural: concentrations may be multiplied instead of divided"
+      },
+      "type": "mcq"
+    },
+    {
+      "id": "c6",
+      "subject": "Chemistry",
+      "grade": 11,
+      "chapter": "Chemical Equilibrium",
+      "skill": "kc",
+      "difficulty": 2,
+      "prompt": "If Kc for A ⇌ B is 4, what is Kc for B ⇌ A at the same temperature?",
+      "options": [
+        "4",
+        "−4",
+        "2",
+        "0.25"
+      ],
+      "answer": "3",
+      "explanation": "Reversing a reaction inverts its equilibrium constant: 1/4 = 0.25.",
+      "hint": "Write both equilibrium expressions.",
+      "misconceptions": {
+        "0": "Conceptual: reversal may be assumed to leave K unchanged",
+        "1": "Procedural: reversing may be confused with changing the sign"
+      },
+      "type": "mcq"
+    },
+    {
+      "id": "c7",
+      "subject": "Chemistry",
+      "grade": 11,
+      "chapter": "Chemical Equilibrium",
+      "skill": "kc",
+      "difficulty": 3,
+      "prompt": "For H₂ + I₂ ⇌ 2HI, Kc = 9. What is Kc for ½H₂ + ½I₂ ⇌ HI?",
+      "options": [
+        "9",
+        "4.5",
+        "3",
+        "81"
+      ],
+      "answer": "2",
+      "explanation": "Multiplying coefficients by ½ raises Kc to the power ½. √9 = 3.",
+      "hint": "Scaling a reaction changes the powers in its expression.",
+      "misconceptions": {
+        "1": "Procedural: K may be scaled linearly",
+        "3": "Procedural: scaling exponent may be reversed"
+      },
+      "type": "mcq"
+    },
+    {
+      "id": "c8",
+      "subject": "Chemistry",
+      "grade": 11,
+      "chapter": "Chemical Equilibrium",
+      "skill": "kp",
+      "difficulty": 1,
+      "prompt": "For N₂(g) + 3H₂(g) ⇌ 2NH₃(g), what is Δn?",
+      "options": [
+        "2",
+        "−2",
+        "4",
+        "6"
+      ],
+      "answer": "1",
+      "explanation": "Δn = 2 − (1 + 3) = −2. Count gaseous coefficients only.",
+      "hint": "Subtract reactant gas coefficients from product gas coefficients.",
+      "misconceptions": {
+        "0": "Procedural: gas mole difference may have its sign reversed",
+        "3": "Conceptual: total gaseous coefficients may replace the difference"
+      },
+      "type": "mcq"
+    },
+    {
+      "id": "c9",
+      "subject": "Chemistry",
+      "grade": 11,
+      "chapter": "Chemical Equilibrium",
+      "skill": "kp",
+      "difficulty": 2,
+      "prompt": "For H₂(g) + I₂(g) ⇌ 2HI(g), how are Kp and Kc related?",
+      "options": [
+        "Kp = Kc",
+        "Kp = KcRT",
+        "Kp = Kc/(RT)",
+        "Kp = Kc(RT)²"
+      ],
+      "answer": "0",
+      "explanation": "Δn = 2 − 2 = 0, so (RT)^0 = 1 and Kp = Kc.",
+      "hint": "Calculate Δn first.",
+      "misconceptions": {
+        "3": "Procedural: product moles alone may be used for Δn"
+      },
+      "type": "mcq"
+    },
+    {
+      "id": "c10",
+      "subject": "Chemistry",
+      "grade": 11,
+      "chapter": "Chemical Equilibrium",
+      "skill": "shift",
+      "difficulty": 1,
+      "prompt": "Adding a catalyst to an equilibrium mixture will:",
+      "options": [
+        "Increase Kc",
+        "Shift toward products",
+        "Leave the equilibrium composition unchanged",
+        "Stop the reverse reaction"
+      ],
+      "answer": "2",
+      "explanation": "A catalyst accelerates both directions and does not change Kc or equilibrium composition.",
+      "hint": "Separate speed of reaching equilibrium from equilibrium position.",
+      "misconceptions": {
+        "0": "Conceptual: rate and equilibrium constant may be confused",
+        "1": "Conceptual: a catalyst may be assumed to favor products"
+      },
+      "type": "mcq"
+    },
+    {
+      "id": "c11",
+      "subject": "Chemistry",
+      "grade": 11,
+      "chapter": "Chemical Equilibrium",
+      "skill": "shift",
+      "difficulty": 2,
+      "prompt": "For N₂(g) + 3H₂(g) ⇌ 2NH₃(g), compressing the mixture at constant temperature shifts equilibrium:",
+      "options": [
+        "Toward NH₃",
+        "Toward N₂ and H₂",
+        "Neither way, because Kc is constant",
+        "Only if a catalyst is present"
+      ],
+      "answer": "0",
+      "explanation": "Higher pressure favors the side with fewer gas moles: 2 on the product side versus 4 on the reactant side. Kc remains constant.",
+      "hint": "Count the gas coefficients on each side.",
+      "misconceptions": {
+        "1": "Procedural: pressure shift direction may be reversed",
+        "2": "Conceptual: constant K may be confused with constant composition"
+      },
+      "type": "mcq"
+    },
+    {
+      "id": "c12",
+      "subject": "Chemistry",
+      "grade": 11,
+      "chapter": "Chemical Equilibrium",
+      "skill": "shift",
+      "difficulty": 3,
+      "prompt": "For an exothermic forward reaction, increasing temperature will:",
+      "options": [
+        "Increase K",
+        "Decrease K",
+        "Leave K unchanged",
+        "Always make K equal to 1"
+      ],
+      "answer": "1",
+      "explanation": "Heating favors the endothermic reverse direction, lowering the equilibrium product-to-reactant ratio and K.",
+      "hint": "Treat heat as a product for an exothermic reaction.",
+      "misconceptions": {
+        "0": "Conceptual: faster reaction may be confused with larger equilibrium constant",
+        "2": "Recall: temperature dependence of K may be missed"
+      },
+      "type": "mcq"
+    },
+    {
+      "id": "m1",
+      "subject": "Mathematics",
+      "grade": 10,
+      "chapter": "Quadratic Equations",
+      "skill": "form",
+      "difficulty": 1,
+      "prompt": "Which equation is quadratic in x?",
+      "options": [
+        "x³ − x = 0",
+        "2x² − 3x + 1 = 0",
+        "5x + 2 = 0",
+        "x² − x² + x = 0"
+      ],
+      "answer": "1",
+      "explanation": "The highest remaining power must be 2 with nonzero coefficient. In the last option the x² terms cancel.",
+      "hint": "Simplify before identifying the degree.",
+      "misconceptions": {
+        "3": "Procedural: cancellation may be overlooked"
+      },
+      "type": "mcq"
+    },
+    {
+      "id": "m2",
+      "subject": "Mathematics",
+      "grade": 10,
+      "chapter": "Quadratic Equations",
+      "skill": "form",
+      "difficulty": 2,
+      "prompt": "Write x(x + 3) = 10 in standard form. What is c?",
+      "options": [
+        "10",
+        "3",
+        "−10",
+        "1"
+      ],
+      "answer": "2",
+      "explanation": "Expanding and rearranging gives x² + 3x − 10 = 0, so c = −10.",
+      "hint": "Move the constant to the left side.",
+      "misconceptions": {
+        "0": "Procedural: sign may not change when rearranging",
+        "1": "Recall: b and c may be confused"
+      },
+      "type": "mcq"
+    },
+    {
+      "id": "m3",
+      "subject": "Mathematics",
+      "grade": 10,
+      "chapter": "Quadratic Equations",
+      "skill": "factor",
+      "difficulty": 1,
+      "prompt": "Find the roots of x² − 5x + 6 = 0.",
+      "options": [
+        "−2 and −3",
+        "2 and 3",
+        "1 and 6",
+        "−1 and −6"
+      ],
+      "answer": "1",
+      "explanation": "x² − 5x + 6 = (x − 2)(x − 3); each factor can be zero, so x = 2 or 3.",
+      "hint": "Find numbers whose product is 6 and sum is −5.",
+      "misconceptions": {
+        "0": "Procedural: factor signs may be confused with root signs",
+        "2": "Procedural: only the product may have been checked"
+      },
+      "type": "mcq"
+    },
+    {
+      "id": "m4",
+      "subject": "Mathematics",
+      "grade": 10,
+      "chapter": "Quadratic Equations",
+      "skill": "factor",
+      "difficulty": 2,
+      "prompt": "Solve 2x² − 8x = 0.",
+      "options": [
+        "x = 4 only",
+        "x = 0 only",
+        "x = 0 or 4",
+        "x = −4 or 4"
+      ],
+      "answer": "2",
+      "explanation": "Factor 2x(x − 4) = 0. Both x = 0 and x = 4 are solutions. Dividing by x would discard x = 0.",
+      "hint": "Factor instead of dividing by x.",
+      "misconceptions": {
+        "0": "Procedural: dividing by x may discard the zero root"
+      },
+      "type": "mcq"
+    },
+    {
+      "id": "m5",
+      "subject": "Mathematics",
+      "grade": 10,
+      "chapter": "Quadratic Equations",
+      "skill": "disc",
+      "difficulty": 1,
+      "prompt": "What is the discriminant of x² − 6x + 9 = 0?",
+      "options": [
+        "72",
+        "0",
+        "36",
+        "−36"
+      ],
+      "answer": "1",
+      "explanation": "D = (−6)² − 4(1)(9) = 36 − 36 = 0.",
+      "hint": "Square the whole coefficient b, including its sign.",
+      "misconceptions": {
+        "0": "Procedural: subtraction in D may become addition",
+        "3": "Calculation: squaring a negative coefficient may be incorrect"
+      },
+      "type": "mcq"
+    },
+    {
+      "id": "m6",
+      "subject": "Mathematics",
+      "grade": 10,
+      "chapter": "Quadratic Equations",
+      "skill": "disc",
+      "difficulty": 2,
+      "prompt": "How many real roots does 2x² + 3x + 5 = 0 have?",
+      "options": [
+        "Two distinct",
+        "Two equal",
+        "No real roots",
+        "One positive root"
+      ],
+      "answer": "2",
+      "explanation": "D = 9 − 40 = −31 < 0; there are no real roots.",
+      "hint": "Use the sign of b² − 4ac.",
+      "misconceptions": {
+        "0": "Conceptual: all quadratics may be assumed to have real roots",
+        "1": "Recall: D < 0 may be confused with D = 0"
+      },
+      "type": "mcq"
+    },
+    {
+      "id": "m7",
+      "subject": "Mathematics",
+      "grade": 10,
+      "chapter": "Quadratic Equations",
+      "skill": "disc",
+      "difficulty": 3,
+      "prompt": "For x² + kx + 16 = 0 to have equal real roots, k must be:",
+      "options": [
+        "8 only",
+        "−8 only",
+        "8 or −8",
+        "16"
+      ],
+      "answer": "2",
+      "explanation": "Equal roots require D = k² − 64 = 0, so k² = 64 and k = ±8.",
+      "hint": "Remember both square roots when solving for k.",
+      "misconceptions": {
+        "0": "Procedural: negative solution may be discarded",
+        "1": "Procedural: positive solution may be discarded"
+      },
+      "type": "mcq"
+    },
+    {
+      "id": "m8",
+      "subject": "Mathematics",
+      "grade": 10,
+      "chapter": "Quadratic Equations",
+      "skill": "formula",
+      "difficulty": 2,
+      "prompt": "Which is the correct formula for roots of ax² + bx + c = 0?",
+      "options": [
+        "(b ± √(b² − 4ac))/(2a)",
+        "(−b ± √(b² − 4ac))/(2a)",
+        "−b ± √(b² − 4ac)/a",
+        "(−b ± √(b² + 4ac))/(2a)"
+      ],
+      "answer": "1",
+      "explanation": "The numerator is −b ± √(b² − 4ac), all divided by 2a.",
+      "hint": "Check the sign before b, the discriminant and the entire denominator.",
+      "misconceptions": {
+        "0": "Recall: leading negative sign may be missing",
+        "3": "Recall: discriminant sign may be incorrect"
+      },
+      "type": "mcq"
+    },
+    {
+      "id": "m9",
+      "subject": "Mathematics",
+      "grade": 10,
+      "chapter": "Quadratic Equations",
+      "skill": "formula",
+      "difficulty": 3,
+      "prompt": "The roots of 2x² + x − 3 = 0 are:",
+      "options": [
+        "1 and −1.5",
+        "−1 and 1.5",
+        "1 and −3",
+        "−1 and 3"
+      ],
+      "answer": "0",
+      "explanation": "D = 1 + 24 = 25; x = (−1 ± 5)/4, giving 1 and −3/2.",
+      "hint": "Use a = 2, b = 1 and c = −3.",
+      "misconceptions": {
+        "1": "Procedural: sign of −b may be reversed",
+        "2": "Procedural: denominator 2a may be mishandled"
+      },
+      "type": "mcq"
+    },
+    {
+      "id": "m10",
+      "subject": "Mathematics",
+      "grade": 10,
+      "chapter": "Quadratic Equations",
+      "skill": "model",
+      "difficulty": 2,
+      "prompt": "A rectangle has width x cm and length (x + 3) cm. Its area is 40 cm². Find its width.",
+      "options": [
+        "5 cm",
+        "8 cm",
+        "−8 cm",
+        "10 cm"
+      ],
+      "answer": "0",
+      "explanation": "x(x + 3) = 40 gives (x + 8)(x − 5) = 0. The positive width is 5 cm.",
+      "hint": "Form an area equation, then reject an invalid length.",
+      "misconceptions": {
+        "1": "Misinterpretation: length may be given instead of width",
+        "2": "Misinterpretation: a negative length may be accepted"
+      },
+      "type": "mcq"
+    },
+    {
+      "id": "m11",
+      "subject": "Mathematics",
+      "grade": 10,
+      "chapter": "Quadratic Equations",
+      "skill": "model",
+      "difficulty": 3,
+      "prompt": "The product of two consecutive positive integers is 72. Find the smaller integer.",
+      "options": [
+        "9",
+        "8",
+        "−9",
+        "7"
+      ],
+      "answer": "1",
+      "explanation": "Let the smaller integer be x: x(x + 1) = 72. (x + 9)(x − 8) = 0; positivity gives x = 8.",
+      "hint": "Consecutive integers can be written x and x + 1.",
+      "misconceptions": {
+        "0": "Misinterpretation: larger integer may be reported",
+        "2": "Misinterpretation: positivity constraint may be ignored"
+      },
+      "type": "mcq"
+    },
+    {
+      "id": "m12",
+      "subject": "Mathematics",
+      "grade": 10,
+      "chapter": "Quadratic Equations",
+      "skill": "formula",
+      "difficulty": 2,
+      "prompt": "Enter the positive root of x² − 2x − 8 = 0.",
+      "options": [],
+      "answer": "4",
+      "explanation": "(x − 4)(x + 2) = 0 gives 4 and −2. The requested positive root is 4.",
+      "hint": "Factor using numbers with product −8 and sum −2.",
+      "misconceptions": {},
+      "type": "numerical",
+      "tolerance": 0.000001
+    }
+  ],
+  "skills": [
+    {
+      "id": "dynamic",
+      "name": "Dynamic equilibrium",
+      "subject": "Chemistry",
+      "prerequisites": [],
+      "description": "At equilibrium, forward and reverse reaction rates are equal. Reactions continue and concentrations stay constant."
+    },
+    {
+      "id": "mass",
+      "name": "Law of mass action",
+      "subject": "Chemistry",
+      "prerequisites": [
+        "dynamic"
+      ],
+      "description": "In the equilibrium expression, each concentration is raised to its stoichiometric coefficient. Pure solids and liquids have unit activity."
+    },
+    {
+      "id": "kc",
+      "name": "Equilibrium constant Kc",
+      "subject": "Chemistry",
+      "prerequisites": [
+        "mass"
+      ],
+      "description": "Kc is the ratio of product to reactant concentration terms at equilibrium. Its value depends on temperature."
+    },
+    {
+      "id": "kp",
+      "name": "Kp and gaseous moles",
+      "subject": "Chemistry",
+      "prerequisites": [
+        "kc"
+      ],
+      "description": "Kp = Kc(RT)^Δn, where Δn is gaseous product coefficients minus gaseous reactant coefficients."
+    },
+    {
+      "id": "shift",
+      "name": "Le Chatelier’s principle",
+      "subject": "Chemistry",
+      "prerequisites": [
+        "dynamic",
+        "kc"
+      ],
+      "description": "A system shifts to oppose a concentration, pressure or temperature change. A catalyst changes the rate of reaching equilibrium, not its position."
+    },
+    {
+      "id": "form",
+      "name": "Standard quadratic form",
+      "subject": "Mathematics",
+      "prerequisites": [],
+      "description": "A quadratic has the form ax² + bx + c = 0, with a ≠ 0. Move every term to one side before identifying coefficients."
+    },
+    {
+      "id": "factor",
+      "name": "Factorisation",
+      "subject": "Mathematics",
+      "prerequisites": [
+        "form"
+      ],
+      "description": "Write the quadratic as a product equal to zero. At least one factor must be zero; solve both factors."
+    },
+    {
+      "id": "disc",
+      "name": "Discriminant",
+      "subject": "Mathematics",
+      "prerequisites": [
+        "form"
+      ],
+      "description": "D = b² − 4ac. D > 0 means two distinct real roots; D = 0 means equal real roots; D < 0 means no real roots."
+    },
+    {
+      "id": "formula",
+      "name": "Quadratic formula",
+      "subject": "Mathematics",
+      "prerequisites": [
+        "disc"
+      ],
+      "description": "For ax² + bx + c = 0, x = (−b ± √(b² − 4ac))/(2a). Keep the entire numerator over 2a."
+    },
+    {
+      "id": "model",
+      "name": "Word problems",
+      "subject": "Mathematics",
+      "prerequisites": [
+        "factor",
+        "formula"
+      ],
+      "description": "Define the variable, form a quadratic and check roots against the context. Lengths and counts must be valid."
+    }
+  ]
+}

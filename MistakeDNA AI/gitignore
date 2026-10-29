@@ -1,0 +1,46 @@
+# Python environments and caches
+.venv/
+.train-venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+.coverage.*
+htmlcov/
+coverage.xml
+
+# Node / Vite dependencies and generated builds
+node_modules/
+frontend/dist/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+*.tsbuildinfo
+
+# Secrets and local configuration (keep the safe example)
+.env
+.env.*
+!.env.example
+
+# Local student data and generated scratch output
+*.db
+*.db-shm
+*.db-wal
+/data/
+/outputs/
+
+# Local operating-system metadata
+.DS_Store
+Thumbs.db
+
+# Required application assets MUST be committed.
+# Do not add blanket ignores for *.npz, *.json, or lockfiles.
+!backend/app/offline_model/weights.npz
+!backend/app/offline_model/manifest.json
+!backend/app/offline_model/corpus.json
+!backend/app/data/content.json
+!frontend/package-lock.json

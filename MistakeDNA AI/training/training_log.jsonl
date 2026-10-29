@@ -1,0 +1,13 @@
+{"step": 1, "loss": 44.48757, "seconds": 0.1}
+{"step": 201, "loss": 0.00814, "seconds": 3.4}
+{"step": 401, "loss": 0.00109, "seconds": 6.2}
+{"step": 601, "loss": 0.00065, "seconds": 8.6}
+{"step": 801, "loss": 0.00043, "seconds": 11.6}
+{"step": 1001, "loss": 0.00033, "seconds": 14.5}
+{"step": 1201, "loss": 0.00027, "seconds": 17.1}
+{"step": 1401, "loss": 0.00024, "seconds": 19.8}
+{"step": 1601, "loss": 0.00023, "seconds": 22.8}
+{"step": 1801, "loss": 0.00021, "seconds": 25.5}
+{"step": 2001, "loss": 0.00019, "seconds": 28.3}
+{"step": 2200, "loss": 0.00018, "seconds": 31.2}
+{"architecture": "custom decoder-only causal transformer", "pretrained": false, "initialization": "random; no existing model weights or tokenizer", "parameters": 137984, "vocabulary_size": 400, "width": 64, "heads": 4, "layers": 2, "context": 192, "seed": 29, "steps": 2200, "training_examples": 40, "training_loss_initial": 44.48756790161133, "training_loss_final": 0.00018548801017459482, "training_perplexity": 1.0001855052141393, "training_prompt_exact_matches": 40, "training_prompt_count": 40, "held_out_evaluation": "None. Exact matches measure memorization on training prompts, not generalization or educational effectiveness.", "training_seconds": 31.9, "weights_sha256": "90212500490d61f1e2a7843d846ff3e9f548771584515425e65b7d3f1836b383", "corpus_sha256": "e804ad83bb1327466f24d99737c3c38f10a01d1688b5dc4af0e11a5e13dd52e3"}
