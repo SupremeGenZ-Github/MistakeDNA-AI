@@ -1,0 +1,32 @@
+services:
+  app:
+    build: .
+    ports:
+      - "8000:10000"
+    env_file:
+      - .env
+    environment:
+      PORT: "10000"
+      DATABASE_URL: postgresql://mistakedna:local-dev-password@db:5432/mistakedna
+      APP_ORIGIN: http://localhost:8000
+      APP_ENV: development
+      COOKIE_SECURE: "false"
+      RUN_MIGRATIONS: "true"
+    depends_on:
+      db:
+        condition: service_healthy
+  db:
+    image: postgres:17-bookworm
+    environment:
+      POSTGRES_DB: mistakedna
+      POSTGRES_USER: mistakedna
+      POSTGRES_PASSWORD: local-dev-password
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U mistakedna -d mistakedna"]
+      interval: 5s
+      timeout: 3s
+      retries: 10
+volumes:
+  pgdata:

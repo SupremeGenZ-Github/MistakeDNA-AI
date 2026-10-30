@@ -1,0 +1,830 @@
+[
+  {
+    "id": "dynamic",
+    "name": "Dynamic equilibrium",
+    "subject": "Chemistry",
+    "prerequisites": [],
+    "description": "At equilibrium, forward and reverse reaction rates are equal. Reactions continue and concentrations stay constant.",
+    "grade": 11,
+    "chapterId": "g11-chemistry-chemistry-equilibrium"
+  },
+  {
+    "id": "mass",
+    "name": "Law of mass action",
+    "subject": "Chemistry",
+    "prerequisites": [
+      "dynamic"
+    ],
+    "description": "In the equilibrium expression, each concentration is raised to its stoichiometric coefficient. Pure solids and liquids have unit activity.",
+    "grade": 11,
+    "chapterId": "g11-chemistry-chemistry-equilibrium"
+  },
+  {
+    "id": "kc",
+    "name": "Equilibrium constant Kc",
+    "subject": "Chemistry",
+    "prerequisites": [
+      "mass"
+    ],
+    "description": "Kc is the ratio of product to reactant concentration terms at equilibrium. Its value depends on temperature.",
+    "grade": 11,
+    "chapterId": "g11-chemistry-chemistry-equilibrium"
+  },
+  {
+    "id": "kp",
+    "name": "Kp and gaseous moles",
+    "subject": "Chemistry",
+    "prerequisites": [
+      "kc"
+    ],
+    "description": "Kp = Kc(RT)^\u0394n, where \u0394n is gaseous product coefficients minus gaseous reactant coefficients.",
+    "grade": 11,
+    "chapterId": "g11-chemistry-chemistry-equilibrium"
+  },
+  {
+    "id": "shift",
+    "name": "Le Chatelier\u2019s principle",
+    "subject": "Chemistry",
+    "prerequisites": [
+      "dynamic",
+      "kc"
+    ],
+    "description": "A system shifts to oppose a concentration, pressure or temperature change. A catalyst changes the rate of reaching equilibrium, not its position.",
+    "grade": 11,
+    "chapterId": "g11-chemistry-chemistry-equilibrium"
+  },
+  {
+    "id": "form",
+    "name": "Standard quadratic form",
+    "subject": "Mathematics",
+    "prerequisites": [],
+    "description": "A quadratic has the form ax\u00b2 + bx + c = 0, with a \u2260 0. Move every term to one side before identifying coefficients.",
+    "grade": 10,
+    "chapterId": "g10-mathematics-mathematics-quadratic-equations"
+  },
+  {
+    "id": "factor",
+    "name": "Factorisation",
+    "subject": "Mathematics",
+    "prerequisites": [
+      "form"
+    ],
+    "description": "Write the quadratic as a product equal to zero. At least one factor must be zero; solve both factors.",
+    "grade": 10,
+    "chapterId": "g10-mathematics-mathematics-quadratic-equations"
+  },
+  {
+    "id": "disc",
+    "name": "Discriminant",
+    "subject": "Mathematics",
+    "prerequisites": [
+      "form"
+    ],
+    "description": "D = b\u00b2 \u2212 4ac. D > 0 means two distinct real roots; D = 0 means equal real roots; D < 0 means no real roots.",
+    "grade": 10,
+    "chapterId": "g10-mathematics-mathematics-quadratic-equations"
+  },
+  {
+    "id": "formula",
+    "name": "Quadratic formula",
+    "subject": "Mathematics",
+    "prerequisites": [
+      "disc"
+    ],
+    "description": "For ax\u00b2 + bx + c = 0, x = (\u2212b \u00b1 \u221a(b\u00b2 \u2212 4ac))/(2a). Keep the entire numerator over 2a.",
+    "grade": 10,
+    "chapterId": "g10-mathematics-mathematics-quadratic-equations"
+  },
+  {
+    "id": "model",
+    "name": "Word problems",
+    "subject": "Mathematics",
+    "prerequisites": [
+      "factor",
+      "formula"
+    ],
+    "description": "Define the variable, form a quadratic and check roots against the context. Lengths and counts must be valid.",
+    "grade": 10,
+    "chapterId": "g10-mathematics-mathematics-quadratic-equations"
+  },
+  {
+    "id": "g9-chemistry-science-exploring-mixtures-and-their-separation-1",
+    "name": "Pure substances and mixtures",
+    "subject": "Chemistry",
+    "grade": 9,
+    "chapterId": "g9-chemistry-science-exploring-mixtures-and-their-separation",
+    "description": "A mixture contains substances in variable proportions; physical separation can often recover components.",
+    "prerequisites": []
+  },
+  {
+    "id": "g9-chemistry-science-exploring-mixtures-and-their-separation-3",
+    "name": "Colloids and suspensions",
+    "subject": "Chemistry",
+    "grade": 9,
+    "chapterId": "g9-chemistry-science-exploring-mixtures-and-their-separation",
+    "description": "Colloidal particles scatter light, making the beam path visible under suitable conditions.",
+    "prerequisites": []
+  },
+  {
+    "id": "g9-chemistry-science-structure-of-an-atom-3",
+    "name": "Atomic number and mass number",
+    "subject": "Chemistry",
+    "grade": 9,
+    "chapterId": "g9-chemistry-science-structure-of-an-atom",
+    "description": "Mass number is the number of protons plus neutrons: 11 + 12 = 23.",
+    "prerequisites": []
+  },
+  {
+    "id": "g9-chemistry-science-atoms-and-molecules-3",
+    "name": "Valency and formulae",
+    "subject": "Chemistry",
+    "grade": 9,
+    "chapterId": "g9-chemistry-science-atoms-and-molecules",
+    "description": "Electrical neutrality requires two Al3+ ions and three O2- ions, giving Al2O3.",
+    "prerequisites": []
+  },
+  {
+    "id": "g9-physics-science-motion-1",
+    "name": "Distance and displacement",
+    "subject": "Physics",
+    "grade": 9,
+    "chapterId": "g9-physics-science-motion",
+    "description": "Displacement depends on final and initial position. They are the same after a complete lap.",
+    "prerequisites": []
+  },
+  {
+    "id": "g9-physics-science-motion-3",
+    "name": "Acceleration",
+    "subject": "Physics",
+    "grade": 9,
+    "chapterId": "g9-physics-science-motion",
+    "description": "Acceleration is change in velocity divided by time: (10 - 2)/4 = 2 m/s2.",
+    "prerequisites": []
+  },
+  {
+    "id": "g9-physics-science-force-and-laws-of-motion-2",
+    "name": "Newton's laws",
+    "subject": "Physics",
+    "grade": 9,
+    "chapterId": "g9-physics-science-force-and-laws-of-motion",
+    "description": "Newton's second law gives net force F = ma = 3 x 2 = 6 N.",
+    "prerequisites": []
+  },
+  {
+    "id": "g9-physics-science-work-energy-and-simple-machines-6",
+    "name": "Mechanical advantage",
+    "subject": "Physics",
+    "grade": 9,
+    "chapterId": "g9-physics-science-work-energy-and-simple-machines",
+    "description": "Mechanical advantage is load divided by effort: 120/30 = 4.",
+    "prerequisites": []
+  },
+  {
+    "id": "g9-biology-science-cell-4",
+    "name": "Diffusion and osmosis",
+    "subject": "Biology",
+    "grade": 9,
+    "chapterId": "g9-biology-science-cell",
+    "description": "Osmosis involves water moving through a selectively permeable membrane down its water-potential gradient.",
+    "prerequisites": []
+  },
+  {
+    "id": "g9-biology-science-tissues-3",
+    "name": "Epithelial and connective tissues",
+    "subject": "Biology",
+    "grade": 9,
+    "chapterId": "g9-biology-science-tissues",
+    "description": "Tendons connect muscles to bones. Ligaments connect bones to other bones.",
+    "prerequisites": []
+  },
+  {
+    "id": "g9-biology-science-reproduction-2",
+    "name": "Flowers and pollination",
+    "subject": "Biology",
+    "grade": 9,
+    "chapterId": "g9-biology-science-reproduction",
+    "description": "Pollination transfers pollen. Fertilisation is fusion of gametes, which occurs later.",
+    "prerequisites": []
+  },
+  {
+    "id": "g9-biology-science-diversity-5",
+    "name": "Binomial nomenclature",
+    "subject": "Biology",
+    "grade": 9,
+    "chapterId": "g9-biology-science-diversity",
+    "description": "A binomial consists of a genus name followed by a specific epithet.",
+    "prerequisites": []
+  },
+  {
+    "id": "g9-mathematics-mathematics-number-system-1",
+    "name": "Rational and irrational numbers",
+    "subject": "Mathematics",
+    "grade": 9,
+    "chapterId": "g9-mathematics-mathematics-number-system",
+    "description": "The square root of 2 cannot be expressed as a ratio of integers; the other listed numbers are rational.",
+    "prerequisites": []
+  },
+  {
+    "id": "g9-mathematics-mathematics-sequences-and-progressions-2",
+    "name": "Arithmetic progressions",
+    "subject": "Mathematics",
+    "grade": 9,
+    "chapterId": "g9-mathematics-mathematics-sequences-and-progressions",
+    "description": "This arithmetic progression has common difference 3. The next term is 13 + 3 = 16.",
+    "prerequisites": []
+  },
+  {
+    "id": "g9-mathematics-mathematics-introduction-to-polynomials-2",
+    "name": "Degree and coefficients",
+    "subject": "Mathematics",
+    "grade": 9,
+    "chapterId": "g9-mathematics-mathematics-introduction-to-polynomials",
+    "description": "The degree is the greatest exponent of x with a nonzero coefficient, here 3.",
+    "prerequisites": []
+  },
+  {
+    "id": "g9-mathematics-mathematics-lines-and-angles-2",
+    "name": "Linear pairs",
+    "subject": "Mathematics",
+    "grade": 9,
+    "chapterId": "g9-mathematics-mathematics-lines-and-angles",
+    "description": "A linear pair sums to 180 degrees, so the second angle is 180 - 65 = 115 degrees.",
+    "prerequisites": []
+  },
+  {
+    "id": "g9-social-science-geography-shaping-of-the-earth-s-surface-1",
+    "name": "Plate tectonics",
+    "subject": "Social Science",
+    "grade": 9,
+    "chapterId": "g9-social-science-geography-shaping-of-the-earth-s-surface",
+    "description": "Plate tectonics describes movement and interaction of lithospheric plates over geological time.",
+    "prerequisites": []
+  },
+  {
+    "id": "g9-social-science-history-early-humans-and-beginning-of-civilisation-4",
+    "name": "Neolithic settlements",
+    "subject": "Social Science",
+    "grade": 9,
+    "chapterId": "g9-social-science-history-early-humans-and-beginning-of-civilisation",
+    "description": "Neolithic changes included cultivation and domestication, encouraging more settled communities in many regions.",
+    "prerequisites": []
+  },
+  {
+    "id": "g9-social-science-political-science-democracy-1",
+    "name": "Features and types",
+    "subject": "Social Science",
+    "grade": 9,
+    "chapterId": "g9-social-science-political-science-democracy",
+    "description": "Democracy requires meaningful participation and institutions through which rulers can be held accountable.",
+    "prerequisites": []
+  },
+  {
+    "id": "g9-social-science-economics-building-blocks-in-economics-2",
+    "name": "Opportunity cost",
+    "subject": "Social Science",
+    "grade": 9,
+    "chapterId": "g9-social-science-economics-building-blocks-in-economics",
+    "description": "Choosing one option sacrifices the next-best feasible alternative; its value is the opportunity cost.",
+    "prerequisites": []
+  },
+  {
+    "id": "g10-chemistry-science-chemical-reactions-and-equations-1",
+    "name": "Balancing equations",
+    "subject": "Chemistry",
+    "grade": 10,
+    "chapterId": "g10-chemistry-science-chemical-reactions-and-equations",
+    "description": "Balancing conserves the number of atoms of each element and reflects conservation of mass.",
+    "prerequisites": []
+  },
+  {
+    "id": "g10-chemistry-science-acids-bases-and-salts-3",
+    "name": "Neutralisation",
+    "subject": "Chemistry",
+    "grade": 10,
+    "chapterId": "g10-chemistry-science-acids-bases-and-salts",
+    "description": "Neutralisation is an acid-base reaction producing salt and, in common school examples, water.",
+    "prerequisites": []
+  },
+  {
+    "id": "g10-chemistry-science-metals-and-non-metals-2",
+    "name": "Reactivity series",
+    "subject": "Chemistry",
+    "grade": 10,
+    "chapterId": "g10-chemistry-science-metals-and-non-metals",
+    "description": "Zinc is more reactive than copper and can displace it from copper sulfate solution.",
+    "prerequisites": []
+  },
+  {
+    "id": "g10-chemistry-science-carbon-and-its-compounds-4",
+    "name": "Homologous series",
+    "subject": "Chemistry",
+    "grade": 10,
+    "chapterId": "g10-chemistry-science-carbon-and-its-compounds",
+    "description": "A homologous series shares a functional group and general formula; successive members typically differ by CH2.",
+    "prerequisites": []
+  },
+  {
+    "id": "g10-physics-science-light-reflection-and-refraction-6",
+    "name": "Lens power",
+    "subject": "Physics",
+    "grade": 10,
+    "chapterId": "g10-physics-science-light-reflection-and-refraction",
+    "description": "Power is 1/f with f in metres: 1/0.5 = +2 dioptres.",
+    "prerequisites": []
+  },
+  {
+    "id": "g10-physics-science-the-human-eye-and-the-colourful-world-2",
+    "name": "Vision defects",
+    "subject": "Physics",
+    "grade": 10,
+    "chapterId": "g10-physics-science-the-human-eye-and-the-colourful-world",
+    "description": "A concave lens diverges incoming rays so a myopic eye can focus distant objects on the retina.",
+    "prerequisites": []
+  },
+  {
+    "id": "g10-physics-science-electricity-2",
+    "name": "Resistance and Ohm's law",
+    "subject": "Physics",
+    "grade": 10,
+    "chapterId": "g10-physics-science-electricity",
+    "description": "Ohm's law gives R = V/I = 6/2 = 3 ohms, at constant physical conditions.",
+    "prerequisites": []
+  },
+  {
+    "id": "g10-physics-science-magnetic-effects-of-electric-current-6",
+    "name": "Safety",
+    "subject": "Physics",
+    "grade": 10,
+    "chapterId": "g10-physics-science-magnetic-effects-of-electric-current",
+    "description": "A series fuse in the live wire breaks the circuit when excessive current melts its element.",
+    "prerequisites": []
+  },
+  {
+    "id": "g10-biology-science-life-processes-5",
+    "name": "Transport",
+    "subject": "Biology",
+    "grade": 10,
+    "chapterId": "g10-biology-science-life-processes",
+    "description": "Xylem carries water and mineral ions; phloem transports organic food between sources and sinks.",
+    "prerequisites": []
+  },
+  {
+    "id": "g10-biology-science-control-and-coordination-1",
+    "name": "Neurons and reflexes",
+    "subject": "Biology",
+    "grade": 10,
+    "chapterId": "g10-biology-science-control-and-coordination",
+    "description": "Reflex pathways allow rapid involuntary responses to stimuli through neural circuits.",
+    "prerequisites": []
+  },
+  {
+    "id": "g10-biology-science-heredity-and-evolution-2",
+    "name": "Mendelian patterns",
+    "subject": "Biology",
+    "grade": 10,
+    "chapterId": "g10-biology-science-heredity-and-evolution",
+    "description": "The genotypes are AA, Aa, Aa and aa. Under complete dominance, three show the dominant phenotype.",
+    "prerequisites": []
+  },
+  {
+    "id": "g10-biology-science-our-environment-3",
+    "name": "Trophic levels",
+    "subject": "Biology",
+    "grade": 10,
+    "chapterId": "g10-biology-science-our-environment",
+    "description": "The ten-percent model approximates energy transfer between trophic levels; most energy is not transferred onward as biomass.",
+    "prerequisites": []
+  },
+  {
+    "id": "g10-mathematics-mathematics-arithmetic-progressions-2",
+    "name": "nth term",
+    "subject": "Mathematics",
+    "grade": 10,
+    "chapterId": "g10-mathematics-mathematics-arithmetic-progressions",
+    "description": "The nth term is a + (n - 1)d. Here it is 3 + 9 x 2 = 21.",
+    "prerequisites": []
+  },
+  {
+    "id": "g10-mathematics-mathematics-coordinate-geometry-1",
+    "name": "Distance formula",
+    "subject": "Mathematics",
+    "grade": 10,
+    "chapterId": "g10-mathematics-mathematics-coordinate-geometry",
+    "description": "The distance formula gives sqrt(3 squared + 4 squared) = sqrt(25) = 5.",
+    "prerequisites": []
+  },
+  {
+    "id": "g10-mathematics-mathematics-introduction-to-trigonometry-2",
+    "name": "Standard angles",
+    "subject": "Mathematics",
+    "grade": 10,
+    "chapterId": "g10-mathematics-mathematics-introduction-to-trigonometry",
+    "description": "Sine is the ratio of the opposite side to the hypotenuse for an acute angle in a right triangle.",
+    "prerequisites": []
+  },
+  {
+    "id": "g10-mathematics-mathematics-probability-4",
+    "name": "Simple probability",
+    "subject": "Mathematics",
+    "grade": 10,
+    "chapterId": "g10-mathematics-mathematics-probability",
+    "description": "There are three even outcomes among six equally likely outcomes, so the probability is 3/6 = 1/2.",
+    "prerequisites": []
+  },
+  {
+    "id": "g10-social-science-history-nationalism-in-india-3",
+    "name": "Civil disobedience",
+    "subject": "Social Science",
+    "grade": 10,
+    "chapterId": "g10-social-science-history-nationalism-in-india",
+    "description": "Gandhi's Salt March challenged the salt law and became a major event in the Civil Disobedience Movement.",
+    "prerequisites": []
+  },
+  {
+    "id": "g10-social-science-political-science-federalism-2",
+    "name": "Division of powers",
+    "subject": "Social Science",
+    "grade": 10,
+    "chapterId": "g10-social-science-political-science-federalism",
+    "description": "Federal arrangements divide powers between levels of government under constitutional rules.",
+    "prerequisites": []
+  },
+  {
+    "id": "g10-social-science-economics-sectors-of-the-indian-economy-1",
+    "name": "Primary secondary and tertiary",
+    "subject": "Social Science",
+    "grade": 10,
+    "chapterId": "g10-social-science-economics-sectors-of-the-indian-economy",
+    "description": "Manufacturing transforms raw materials into other goods, a defining activity of the secondary sector.",
+    "prerequisites": []
+  },
+  {
+    "id": "g10-social-science-economics-money-and-credit-2",
+    "name": "Formal and informal credit",
+    "subject": "Social Science",
+    "grade": 10,
+    "chapterId": "g10-social-science-economics-money-and-credit",
+    "description": "Formal banking operates under legal and regulatory frameworks; terms still need to be examined by borrowers.",
+    "prerequisites": []
+  },
+  {
+    "id": "g11-chemistry-chemistry-some-basic-concepts-of-chemistry-3",
+    "name": "Mole concept",
+    "subject": "Chemistry",
+    "grade": 11,
+    "chapterId": "g11-chemistry-chemistry-some-basic-concepts-of-chemistry",
+    "description": "Number of moles is mass divided by molar mass: 18/18 = 1 mol.",
+    "prerequisites": []
+  },
+  {
+    "id": "g11-chemistry-chemistry-classification-of-elements-and-periodicity-3",
+    "name": "Ionisation enthalpy",
+    "subject": "Chemistry",
+    "grade": 11,
+    "chapterId": "g11-chemistry-chemistry-classification-of-elements-and-periodicity",
+    "description": "Effective nuclear attraction generally increases across a period, though subshell and pairing effects create exceptions.",
+    "prerequisites": []
+  },
+  {
+    "id": "g11-chemistry-chemistry-thermodynamics-2",
+    "name": "First law",
+    "subject": "Chemistry",
+    "grade": 11,
+    "chapterId": "g11-chemistry-chemistry-thermodynamics",
+    "description": "With w defined as work done on the system, internal-energy change equals heat supplied plus work done on it.",
+    "prerequisites": []
+  },
+  {
+    "id": "g11-chemistry-chemistry-redox-reactions-1",
+    "name": "Oxidation numbers",
+    "subject": "Chemistry",
+    "grade": 11,
+    "chapterId": "g11-chemistry-chemistry-redox-reactions",
+    "description": "Four oxygens contribute -8. The ion totals -2, so sulfur must contribute +6.",
+    "prerequisites": []
+  },
+  {
+    "id": "g11-physics-physics-units-and-measurements-2",
+    "name": "Dimensions",
+    "subject": "Physics",
+    "grade": 11,
+    "chapterId": "g11-physics-physics-units-and-measurements",
+    "description": "From F = ma, force has dimensions mass times length divided by time squared.",
+    "prerequisites": []
+  },
+  {
+    "id": "g11-physics-physics-motion-in-a-plane-2",
+    "name": "Projectile motion",
+    "subject": "Physics",
+    "grade": 11,
+    "chapterId": "g11-physics-physics-motion-in-a-plane",
+    "description": "With gravity as the only force, acceleration acts vertically; horizontal acceleration is zero.",
+    "prerequisites": []
+  },
+  {
+    "id": "g11-physics-physics-gravitation-4",
+    "name": "Escape speed",
+    "subject": "Physics",
+    "grade": 11,
+    "chapterId": "g11-physics-physics-gravitation",
+    "description": "Neglecting atmosphere and rotation, escape speed is sqrt(2GM/R), independent of the escaping object's mass.",
+    "prerequisites": []
+  },
+  {
+    "id": "g11-physics-physics-thermodynamics-1",
+    "name": "Thermal equilibrium",
+    "subject": "Physics",
+    "grade": 11,
+    "chapterId": "g11-physics-physics-thermodynamics",
+    "description": "The zeroth law expresses the transitive nature of thermal equilibrium and underlies temperature measurement.",
+    "prerequisites": []
+  },
+  {
+    "id": "g11-biology-biology-cell-the-unit-of-life-4",
+    "name": "Cell organelles",
+    "subject": "Biology",
+    "grade": 11,
+    "chapterId": "g11-biology-biology-cell-the-unit-of-life",
+    "description": "Mitochondria contain the machinery for key stages of aerobic respiration and oxidative phosphorylation.",
+    "prerequisites": []
+  },
+  {
+    "id": "g11-biology-biology-photosynthesis-in-higher-plants-4",
+    "name": "Calvin cycle",
+    "subject": "Biology",
+    "grade": 11,
+    "chapterId": "g11-biology-biology-photosynthesis-in-higher-plants",
+    "description": "RuBisCO catalyses carboxylation of RuBP in the Calvin cycle, initiating carbon assimilation.",
+    "prerequisites": []
+  },
+  {
+    "id": "g11-biology-biology-body-fluids-and-circulation-5",
+    "name": "Double circulation",
+    "subject": "Biology",
+    "grade": 11,
+    "chapterId": "g11-biology-biology-body-fluids-and-circulation",
+    "description": "Pulmonary and systemic circuits bring blood through the heart twice in one complete circulation.",
+    "prerequisites": []
+  },
+  {
+    "id": "g11-biology-biology-cell-cycle-and-cell-division-3",
+    "name": "Meiosis",
+    "subject": "Biology",
+    "grade": 11,
+    "chapterId": "g11-biology-biology-cell-cycle-and-cell-division",
+    "description": "Meiosis reduces chromosome number, supporting sexual reproduction and restoration of the diploid number at fertilisation.",
+    "prerequisites": []
+  },
+  {
+    "id": "g11-mathematics-mathematics-relations-and-functions-1",
+    "name": "Cartesian products",
+    "subject": "Mathematics",
+    "grade": 11,
+    "chapterId": "g11-mathematics-mathematics-relations-and-functions",
+    "description": "The Cartesian product contains one ordered pair for each choice from A and B: 3 x 2 = 6.",
+    "prerequisites": []
+  },
+  {
+    "id": "g11-mathematics-mathematics-permutations-and-combinations-4",
+    "name": "Combinations",
+    "subject": "Mathematics",
+    "grade": 11,
+    "chapterId": "g11-mathematics-mathematics-permutations-and-combinations",
+    "description": "Order does not matter, so use combinations: 5C2 = 5 x 4 / 2 = 10.",
+    "prerequisites": []
+  },
+  {
+    "id": "g11-mathematics-mathematics-limits-and-derivatives-3",
+    "name": "Derivative as rate",
+    "subject": "Mathematics",
+    "grade": 11,
+    "chapterId": "g11-mathematics-mathematics-limits-and-derivatives",
+    "description": "The power rule gives d(x to the n)/dx = n x to the n - 1, so d(x squared)/dx = 2x.",
+    "prerequisites": []
+  },
+  {
+    "id": "g11-mathematics-mathematics-statistics-4",
+    "name": "Standard deviation",
+    "subject": "Mathematics",
+    "grade": 11,
+    "chapterId": "g11-mathematics-mathematics-statistics",
+    "description": "Variance measures mean squared deviation. Standard deviation is its nonnegative square root and has the data's units.",
+    "prerequisites": []
+  },
+  {
+    "id": "g11-social-science-history-writing-and-city-life-3",
+    "name": "Writing",
+    "subject": "Social Science",
+    "grade": 11,
+    "chapterId": "g11-social-science-history-writing-and-city-life",
+    "description": "Written records supported accounting, administration and communication in complex urban societies.",
+    "prerequisites": []
+  },
+  {
+    "id": "g11-social-science-political-science-rights-in-the-indian-constitution-1",
+    "name": "Fundamental rights",
+    "subject": "Social Science",
+    "grade": 11,
+    "chapterId": "g11-social-science-political-science-rights-in-the-indian-constitution",
+    "description": "Constitutional recognition and judicial remedies provide mechanisms for protecting Fundamental Rights.",
+    "prerequisites": []
+  },
+  {
+    "id": "g11-social-science-economics-introduction-to-microeconomics-3",
+    "name": "Production possibility frontier",
+    "subject": "Social Science",
+    "grade": 11,
+    "chapterId": "g11-social-science-economics-introduction-to-microeconomics",
+    "description": "A PPF represents feasible production trade-offs under specified resource and technology assumptions.",
+    "prerequisites": []
+  },
+  {
+    "id": "g11-social-science-geography-interior-of-the-earth-1",
+    "name": "Seismic waves",
+    "subject": "Social Science",
+    "grade": 11,
+    "chapterId": "g11-social-science-geography-interior-of-the-earth",
+    "description": "Seismic S-waves require shear rigidity and do not propagate through liquids; this helps infer Earth's internal structure.",
+    "prerequisites": []
+  },
+  {
+    "id": "g12-chemistry-chemistry-solutions-5",
+    "name": "Van't Hoff factor",
+    "subject": "Chemistry",
+    "grade": 12,
+    "chapterId": "g12-chemistry-chemistry-solutions",
+    "description": "Dissociation increases the effective number of solute particles, giving i greater than one in the idealised treatment.",
+    "prerequisites": []
+  },
+  {
+    "id": "g12-chemistry-chemistry-electrochemistry-3",
+    "name": "Nernst equation",
+    "subject": "Chemistry",
+    "grade": 12,
+    "chapterId": "g12-chemistry-chemistry-electrochemistry",
+    "description": "The relation Delta G = -nFEcell means positive cell potential corresponds to negative Gibbs-energy change.",
+    "prerequisites": []
+  },
+  {
+    "id": "g12-chemistry-chemistry-chemical-kinetics-4",
+    "name": "Half-life",
+    "subject": "Chemistry",
+    "grade": 12,
+    "chapterId": "g12-chemistry-chemistry-chemical-kinetics",
+    "description": "For a first-order process, t1/2 = ln(2)/k, so it does not depend on initial concentration.",
+    "prerequisites": []
+  },
+  {
+    "id": "g12-chemistry-chemistry-coordination-compounds-1",
+    "name": "Ligands and coordination number",
+    "subject": "Chemistry",
+    "grade": 12,
+    "chapterId": "g12-chemistry-chemistry-coordination-compounds",
+    "description": "Denticity counts donor atoms from one ligand attached to a metal centre. Two donor atoms make it bidentate.",
+    "prerequisites": []
+  },
+  {
+    "id": "g12-physics-physics-electric-charges-and-fields-5",
+    "name": "Gauss's law",
+    "subject": "Physics",
+    "grade": 12,
+    "chapterId": "g12-physics-physics-electric-charges-and-fields",
+    "description": "Total electric flux through a closed surface equals enclosed net charge divided by vacuum permittivity.",
+    "prerequisites": []
+  },
+  {
+    "id": "g12-physics-physics-current-electricity-4",
+    "name": "Kirchhoff's rules",
+    "subject": "Physics",
+    "grade": 12,
+    "chapterId": "g12-physics-physics-current-electricity",
+    "description": "At a junction without charge accumulation, total current entering equals total current leaving.",
+    "prerequisites": []
+  },
+  {
+    "id": "g12-physics-physics-electromagnetic-induction-3",
+    "name": "Lenz's law",
+    "subject": "Physics",
+    "grade": 12,
+    "chapterId": "g12-physics-physics-electromagnetic-induction",
+    "description": "The induced response opposes the flux change, consistent with energy conservation; it does not always oppose the existing field.",
+    "prerequisites": []
+  },
+  {
+    "id": "g12-physics-physics-dual-nature-of-radiation-and-matter-3",
+    "name": "de Broglie waves",
+    "subject": "Physics",
+    "grade": 12,
+    "chapterId": "g12-physics-physics-dual-nature-of-radiation-and-matter",
+    "description": "The de Broglie relation is lambda = h/p, linking wavelength with particle momentum.",
+    "prerequisites": []
+  },
+  {
+    "id": "g12-biology-biology-sexual-reproduction-in-flowering-plants-3",
+    "name": "Double fertilisation",
+    "subject": "Biology",
+    "grade": 12,
+    "chapterId": "g12-biology-biology-sexual-reproduction-in-flowering-plants",
+    "description": "One male gamete fuses with the egg; the other fuses with the central-cell nuclei in the usual angiosperm description.",
+    "prerequisites": []
+  },
+  {
+    "id": "g12-biology-biology-molecular-basis-of-inheritance-3",
+    "name": "Transcription",
+    "subject": "Biology",
+    "grade": 12,
+    "chapterId": "g12-biology-biology-molecular-basis-of-inheritance",
+    "description": "Transcription synthesises RNA using a DNA template, with base-pairing and enzyme-controlled polymerisation.",
+    "prerequisites": []
+  },
+  {
+    "id": "g12-biology-biology-biotechnology-principles-and-processes-4",
+    "name": "PCR",
+    "subject": "Biology",
+    "grade": 12,
+    "chapterId": "g12-biology-biology-biotechnology-principles-and-processes",
+    "description": "Polymerase chain reaction repeatedly copies a target DNA segment through controlled temperature cycles and suitable enzymes.",
+    "prerequisites": []
+  },
+  {
+    "id": "g12-biology-biology-ecosystem-3",
+    "name": "Energy flow",
+    "subject": "Biology",
+    "grade": 12,
+    "chapterId": "g12-biology-biology-ecosystem",
+    "description": "Energy enters, is transferred and dissipates as heat; unlike matter, it is not recycled as a closed ecological energy loop.",
+    "prerequisites": []
+  },
+  {
+    "id": "g12-mathematics-mathematics-matrices-2",
+    "name": "Operations",
+    "subject": "Mathematics",
+    "grade": 12,
+    "chapterId": "g12-mathematics-mathematics-matrices",
+    "description": "The inner dimensions must match; the product has the outer dimensions, 2 by 4.",
+    "prerequisites": []
+  },
+  {
+    "id": "g12-mathematics-mathematics-continuity-and-differentiability-2",
+    "name": "Chain rule",
+    "subject": "Mathematics",
+    "grade": 12,
+    "chapterId": "g12-mathematics-mathematics-continuity-and-differentiability",
+    "description": "The derivative of a composite multiplies the outer derivative evaluated at the inner function by the inner derivative.",
+    "prerequisites": []
+  },
+  {
+    "id": "g12-mathematics-mathematics-integrals-1",
+    "name": "Antiderivatives",
+    "subject": "Mathematics",
+    "grade": 12,
+    "chapterId": "g12-mathematics-mathematics-integrals",
+    "description": "Differentiating x squared plus a constant gives 2x. The constant represents the family of antiderivatives.",
+    "prerequisites": []
+  },
+  {
+    "id": "g12-mathematics-mathematics-probability-4",
+    "name": "Bayes's theorem",
+    "subject": "Mathematics",
+    "grade": 12,
+    "chapterId": "g12-mathematics-mathematics-probability",
+    "description": "Bayes's theorem relates conditional probabilities using prior probabilities and the likelihood of evidence.",
+    "prerequisites": []
+  },
+  {
+    "id": "g12-social-science-history-framing-the-constitution-1",
+    "name": "Constituent Assembly",
+    "subject": "Social Science",
+    "grade": 12,
+    "chapterId": "g12-social-science-history-framing-the-constitution",
+    "description": "The Constituent Assembly debated and adopted the Constitution, drawing on diverse ideas and negotiations.",
+    "prerequisites": []
+  },
+  {
+    "id": "g12-social-science-economics-money-and-banking-3",
+    "name": "Central bank",
+    "subject": "Social Science",
+    "grade": 12,
+    "chapterId": "g12-social-science-economics-money-and-banking",
+    "description": "Central banks use monetary instruments to influence liquidity, credit and broader monetary conditions.",
+    "prerequisites": []
+  },
+  {
+    "id": "g12-social-science-economics-national-income-and-related-aggregates-6",
+    "name": "Real and nominal GDP",
+    "subject": "Social Science",
+    "grade": 12,
+    "chapterId": "g12-social-science-economics-national-income-and-related-aggregates",
+    "description": "Real GDP values output at constant prices to separate changes in production from changes in prices.",
+    "prerequisites": []
+  },
+  {
+    "id": "g12-social-science-political-science-world-security-in-the-contemporary-world-2",
+    "name": "Non-traditional security",
+    "subject": "Social Science",
+    "grade": 12,
+    "chapterId": "g12-social-science-political-science-world-security-in-the-contemporary-world",
+    "description": "Non-traditional security includes threats to people and societies such as epidemics, environmental risks and deprivation.",
+    "prerequisites": []
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "load_seconds": 0.0113,
+  "mean_generation_seconds": 0.0627,
+  "maximum_generation_seconds": 0.0733,
+  "peak_rss_kib": 32100,
+  "torch_imported": false,
+  "parameters": 137984,
+  "training_exact_matches": 40
+}

@@ -1,0 +1,321 @@
+# grade|subject|strand|chapter|topic labels separated by semicolons
+9|Chemistry|Science|Exploring Mixtures and their Separation|Pure substances and mixtures;Solutions and concentration;Colloids and suspensions;Distillation and crystallisation;Chromatography and centrifugation
+9|Chemistry|Science|Structure of an Atom|Electrons protons and neutrons;Atomic models;Atomic number and mass number;Electronic configuration;Isotopes and isobars
+9|Chemistry|Science|Atoms and Molecules|Laws of chemical combination;Atomic and molecular masses;Valency and formulae;Ions;Mole and particle number
+9|Physics|Science|Motion|Distance and displacement;Speed and velocity;Acceleration;Motion graphs;Equations of uniformly accelerated motion;Uniform circular motion
+9|Physics|Science|Force and Laws of Motion|Inertia;Newton's laws;Momentum;Conservation of momentum;Mass and weight
+9|Physics|Science|Work Energy and Simple Machines|Scientific work;Kinetic and potential energy;Conservation of energy;Power;Levers and pulleys;Mechanical advantage
+9|Physics|Science|Sound|Production and propagation;Longitudinal waves;Frequency pitch and amplitude;Speed of sound;Reflection and echoes;Hearing
+9|Biology|Science|Exploring Science|Observations and hypotheses;Fair tests;Evidence and models;Scientific communication
+9|Biology|Science|Cell|Plant and animal cells;Prokaryotes and eukaryotes;Cell organelles;Diffusion and osmosis;Cell division;Cellular biomolecules
+9|Biology|Science|Tissues|Meristematic and permanent tissues;Simple and complex plant tissues;Epithelial and connective tissues;Muscular and nervous tissues;Musculoskeletal system
+9|Biology|Science|Reproduction|Asexual reproduction;Flowers and pollination;Fertilisation and seed formation;Human reproductive systems;Menstrual cycle and development;Reproductive health
+9|Biology|Science|Diversity|Classification;Five kingdoms;Plant groups;Animal groups;Binomial nomenclature
+9|Biology|Earth Science|Earth as a System Energy Matter and Life|Earth's spheres;Energy flow;Biogeochemical cycles;Interdependence of Earth systems;Human impacts
+9|Mathematics|Mathematics|Number System|Rational and irrational numbers;Number line;Density of rationals;Decimal representations;Irrationality proofs;Square root spiral
+9|Mathematics|Mathematics|Introduction to Polynomials|Algebraic expressions;Degree and coefficients;Linear patterns;Linear growth and decay;Slope and intercept
+9|Mathematics|Mathematics|Sequences and Progressions|Explicit and recursive rules;Arithmetic progressions;Geometric progressions;Natural-number sums;Fractals;Tower of Hanoi
+9|Mathematics|Mathematics|Exploring Algebraic Identities|Geometric models;Factorisation;Algebra tiles;Quadratic factors;Rational expressions
+9|Mathematics|Mathematics|Linear Equations in Two Variables|Graphical solutions;Substitution;Elimination;Nature of solutions;Contextual modelling
+9|Mathematics|Mathematics|Coordinate Geometry|Cartesian plane;Coordinates and quadrants;Plotting points;Spatial relationships
+9|Mathematics|Mathematics|Introduction to Euclid's Geometry|Definitions;Axioms and postulates;Deductive arguments;Consistency of reasoning
+9|Mathematics|Mathematics|Lines and Angles|Intersecting lines;Linear pairs;Parallel lines and transversals;Angle relationships
+9|Mathematics|Mathematics|Triangles Congruence Theorems|Congruence criteria;Isosceles triangles;Triangle inequalities;Proofs and applications
+9|Mathematics|Mathematics|4-gons Quadrilaterals|Angle sums;Parallelograms;Midpoint theorem;Special quadrilaterals
+9|Mathematics|Mathematics|Circles|Chords and central angles;Perpendiculars to chords;Angles in a circle;Cyclic quadrilaterals
+9|Mathematics|Mathematics|Area and Perimeter|Triangle areas;Heron's formula;Composite figures;Cyclic-quadrilateral areas
+9|Mathematics|Mathematics|Surface Area and Volume|Prisms and cylinders;Cones;Spheres and hemispheres;Composite solids;Unit conversion
+9|Mathematics|Mathematics|Statistics|Data representation;Mean median and mode;Interpretation of data
+9|Mathematics|Mathematics|Introduction to Probability|Experiments and outcomes;Events;Relative frequency;Simple likelihood
+9|Social Science|Integrated|Understanding Social Science|History geography politics and economics;Indian perspectives;Evidence and interpretation;Diversity and sustainability
+9|Social Science|Geography|Shaping of the Earth's Surface|Plate tectonics;Interior of Earth;Weathering and erosion;Agents of gradation;Landforms;Natural hazards
+9|Social Science|Geography|Atmosphere and Climate|Atmospheric structure;Weather and climate;Indian seasons and monsoon;Climate change;Floods;Carbon footprint
+9|Social Science|History|Early Humans and Beginning of Civilisation|Archaeological ages;Hunter-gatherers;Food production;Neolithic settlements;Harappan cultures;Contemporary civilisations
+9|Social Science|History|State and Society up to 1000 CE|Vedic societies;Early empires;Education and knowledge traditions;Institutions;Guilds and trade
+9|Social Science|Political Science|Democracy|Features and types;Indian democratic traditions;Challenges;Parliamentary and presidential systems
+9|Social Science|Political Science|Elections|Electoral systems;Delimitation;Election Commission;Constituencies and electoral rolls;Party systems;Coalitions and anti-defection
+9|Social Science|Economics|Building Blocks in Economics|Scarcity and choice;Opportunity cost;Central economic problems;Market planned and mixed systems;Welfare
+9|Social Science|Economics|The Price Puzzle What Drives the Market|Demand and supply;Equilibrium;Shortage and surplus;Price ceilings;Externalities;Public goods and information
+9|Social Science|Geography|Oceans and Life|Ocean relief;Waves tides and currents;Marine resources;Navigation and livelihoods;Cyclones and tsunamis;Maritime cooperation
+9|Social Science|Geography|Life on Earth|Biomes;Biosphere reserves;Forest communities;Ecotourism;Wildlife conservation
+9|Social Science|History|Resistance and Resilience 1000 to 1700 CE|Sovereignty and alliances;Confederacies;Art and architecture;Bhakti traditions;Forts;Economy and states
+9|Social Science|History|India and the World I 1900 BCE to 1200 CE|Trade networks;Cultural connections;Interactions across civilisations;Indian knowledge traditions
+9|Social Science|Political Science|Authority|Authority and justice;Citizens and institutions;Security;Forms of authority;Welfare
+9|Social Science|Economics|From Ideas to Startups|Entrepreneurship;Resources;Creative destruction;MSMEs and informal sectors;Business planning;Accounting basics
+9|Social Science|Economics|Smart Ways to Manage Your Finances|Purchasing power and inflation;Simple and compound interest;Budgeting;Savings;Responsible financial choices
+10|Chemistry|Science|Chemical Reactions and Equations|Balancing equations;Combination and decomposition;Displacement reactions;Redox;Corrosion and rancidity
+10|Chemistry|Science|Acids Bases and Salts|Indicators;Hydrogen ions and pH;Neutralisation;Salts and water of crystallisation;Common useful salts
+10|Chemistry|Science|Metals and Non-metals|Physical properties;Reactivity series;Ionic compounds;Extraction principles;Corrosion prevention
+10|Chemistry|Science|Carbon and its Compounds|Covalent bonding;Carbon chains;Functional groups;Homologous series;Ethanol and ethanoic acid;Soaps and detergents
+10|Physics|Science|Light Reflection and Refraction|Spherical mirrors;Ray diagrams;Mirror formula;Refraction and refractive index;Lenses;Lens power
+10|Physics|Science|The Human Eye and the Colourful World|Eye and accommodation;Vision defects;Prisms and dispersion;Atmospheric refraction;Scattering
+10|Physics|Science|Electricity|Current and potential difference;Resistance and Ohm's law;Resistivity;Series and parallel circuits;Heating effect;Electric power and energy
+10|Physics|Science|Magnetic Effects of Electric Current|Magnetic fields;Field around conductors;Solenoids;Force on current;Domestic circuits;Safety
+10|Biology|Science|Life Processes|Nutrition;Photosynthesis;Human digestion;Respiration;Transport;Excretion
+10|Biology|Science|Control and Coordination|Neurons and reflexes;Human brain;Plant responses;Plant hormones;Endocrine control
+10|Biology|Science|How do Organisms Reproduce|Asexual reproduction;Sexual reproduction in plants;Human reproduction;Reproductive health
+10|Biology|Science|Heredity and Evolution|Inheritance;Mendelian patterns;Sex determination;Variation;Evolutionary evidence and speciation
+10|Biology|Science|Our Environment|Ecosystems;Food chains and webs;Trophic levels;Biodegradable wastes;Ozone depletion
+10|Mathematics|Mathematics|Real Numbers|Fundamental theorem of arithmetic;Prime factorisation;HCF and LCM;Irrationality proofs
+10|Mathematics|Mathematics|Polynomials|Zeroes;Geometric meaning;Zeroes-coefficients relationships
+10|Mathematics|Mathematics|Pair of Linear Equations in Two Variables|Graphical solutions;Consistency;Substitution;Elimination;Applications
+10|Mathematics|Mathematics|Quadratic Equations|Standard form;Factorisation;Discriminant;Quadratic formula;Word problems
+10|Mathematics|Mathematics|Arithmetic Progressions|Common difference;nth term;Sum of n terms;Applications
+10|Mathematics|Mathematics|Triangles|Similarity;Basic proportionality theorem;Similarity criteria;Applications
+10|Mathematics|Mathematics|Coordinate Geometry|Distance formula;Section formula;Coordinate applications
+10|Mathematics|Mathematics|Introduction to Trigonometry|Trigonometric ratios;Standard angles;Identities;Complementary relationships
+10|Mathematics|Mathematics|Some Applications of Trigonometry|Angles of elevation;Angles of depression;Heights and distances
+10|Mathematics|Mathematics|Circles|Tangents;Radius-tangent perpendicularity;Equal tangents from a point
+10|Mathematics|Mathematics|Areas Related to Circles|Circumference;Sectors;Segments;Composite areas
+10|Mathematics|Mathematics|Surface Areas and Volumes|Combinations of solids;Conversion of solids;Surface area;Volume
+10|Mathematics|Mathematics|Statistics|Grouped mean;Median;Mode;Data interpretation
+10|Mathematics|Mathematics|Probability|Equally likely outcomes;Events;Complementary events;Simple probability
+10|Social Science|History|The Rise of Nationalism in Europe|French Revolution legacy;Liberal nationalism;Unification;National symbols;Balkan tensions
+10|Social Science|History|Nationalism in India|First World War context;Non-cooperation;Civil disobedience;Social participation;Collective belonging
+10|Social Science|History|The Making of a Global World|Pre-modern networks;Nineteenth-century integration;Inter-war economy;Post-war institutions
+10|Social Science|History|The Age of Industrialisation|Proto-industrialisation;Factories;Labour;Indian industry;Markets and advertising
+10|Social Science|History|Print Culture and the Modern World|Printing technologies;Reading publics;Religion and debate;Print in India;Censorship
+10|Social Science|Geography|Resources and Development|Resource classification;Planning;Land resources;Soils;Conservation
+10|Social Science|Geography|Forest and Wildlife Resources|Biodiversity;Conservation;Community participation
+10|Social Science|Geography|Water Resources|Water scarcity;Dams;Rainwater harvesting;Sustainable management
+10|Social Science|Geography|Agriculture|Farming systems;Cropping seasons;Major crops;Agricultural change
+10|Social Science|Geography|Minerals and Energy Resources|Mineral occurrence;Distribution;Conventional energy;Non-conventional energy;Conservation
+10|Social Science|Geography|Manufacturing Industries|Industrial location;Major industries;Pollution;Sustainable production
+10|Social Science|Geography|Lifelines of National Economy|Roads railways and waterways;Air transport;Communication;International trade;Tourism
+10|Social Science|Political Science|Power Sharing|Belgium and Sri Lanka;Forms of power sharing;Prudential and moral reasons
+10|Social Science|Political Science|Federalism|Levels of government;Division of powers;Language policy;Decentralisation
+10|Social Science|Political Science|Gender Religion and Caste|Gender inequality;Communalism;Secularism;Caste and politics
+10|Social Science|Political Science|Political Parties|Functions;Party systems;Challenges;Reforms
+10|Social Science|Political Science|Outcomes of Democracy|Accountability;Economic outcomes;Inequality;Social diversity;Dignity and freedom
+10|Social Science|Economics|Development|Development goals;Income and other criteria;Public facilities;Sustainability
+10|Social Science|Economics|Sectors of the Indian Economy|Primary secondary and tertiary;Organised and unorganised;Public and private;Employment
+10|Social Science|Economics|Money and Credit|Money functions;Formal and informal credit;Terms of credit;Self-help groups
+10|Social Science|Economics|Globalisation and the Indian Economy|Multinational production;Foreign trade;Liberalisation;WTO;Fair globalisation
+10|Social Science|Economics|Consumer Rights|Consumer exploitation;Consumer protection;Information;Redressal;Responsible consumption
+11|Chemistry|Chemistry|Some Basic Concepts of Chemistry|Laws of combination;Atomic and molecular masses;Mole concept;Stoichiometry;Concentration terms
+11|Chemistry|Chemistry|Structure of Atom|Electromagnetic radiation;Bohr model;Quantum numbers;Orbitals;Electronic configurations
+11|Chemistry|Chemistry|Classification of Elements and Periodicity|Modern periodic law;Atomic and ionic radii;Ionisation enthalpy;Electron gain enthalpy;Electronegativity
+11|Chemistry|Chemistry|Chemical Bonding and Molecular Structure|Lewis structures;Ionic and covalent bonding;VSEPR;Hybridisation;Molecular orbital theory;Hydrogen bonding
+11|Chemistry|Chemistry|Thermodynamics|System and surroundings;First law;Enthalpy;Hess's law;Entropy;Gibbs energy
+11|Chemistry|Chemistry|Equilibrium|Dynamic equilibrium;Law of mass action;Kc and Kp;Le Chatelier's principle;Ionic equilibrium;pH and buffers;Solubility product
+11|Chemistry|Chemistry|Redox Reactions|Oxidation numbers;Oxidising and reducing agents;Balancing redox reactions;Applications
+11|Chemistry|Chemistry|Organic Chemistry Some Basic Principles and Techniques|Purification;Qualitative analysis;Nomenclature;Isomerism;Electronic effects;Reaction intermediates
+11|Chemistry|Chemistry|Hydrocarbons|Alkanes;Alkenes;Alkynes;Aromaticity;Electrophilic substitution
+11|Chemistry|Formative enrichment|s and p Block Elements|Group trends;Important compounds;Chemical properties
+11|Chemistry|Formative enrichment|The Gaseous State|Gas laws;Ideal gas equation;Kinetic interpretation
+12|Chemistry|Chemistry|Solutions|Concentration terms;Solubility;Raoult's law;Colligative properties;Van't Hoff factor
+12|Chemistry|Chemistry|Electrochemistry|Galvanic cells;Electrode potentials;Nernst equation;Conductance;Electrolysis;Batteries and corrosion
+12|Chemistry|Chemistry|Chemical Kinetics|Rate laws;Order and molecularity;Integrated rate equations;Half-life;Arrhenius equation
+12|Chemistry|Chemistry|d and f Block Elements|Electronic configurations;Transition-metal properties;Oxidation states;Lanthanoids;Actinoids
+12|Chemistry|Chemistry|Coordination Compounds|Ligands and coordination number;Nomenclature;Isomerism;Bonding;Crystal-field ideas;Applications
+12|Chemistry|Chemistry|Haloalkanes and Haloarenes|Classification;Nomenclature;Substitution;Elimination;Environmental effects
+12|Chemistry|Chemistry|Alcohols Phenols and Ethers|Preparation;Physical properties;Chemical reactions;Acidity;Ether cleavage
+12|Chemistry|Chemistry|Aldehydes Ketones and Carboxylic Acids|Carbonyl chemistry;Nucleophilic addition;Oxidation and reduction;Carboxylic acids;Distinguishing tests
+12|Chemistry|Chemistry|Amines|Classification;Preparation;Basicity;Reactions;Diazonium salts
+12|Chemistry|Chemistry|Biomolecules|Carbohydrates;Proteins;Enzymes;Vitamins;Nucleic acids;Hormones
+12|Chemistry|Formative enrichment|Surface Chemistry|Adsorption;Catalysis;Colloids
+12|Chemistry|Formative enrichment|Isolation of Elements|Concentration of ores;Reduction;Refining
+12|Chemistry|Formative enrichment|Polymers|Polymerisation;Homopolymers;Copolymers;Examples
+12|Chemistry|Formative enrichment|Chemistry in Everyday Life|Medicines;Food additives;Cleansing agents
+11|Physics|Physics|Units and Measurements|SI units;Dimensions;Significant figures;Measurement uncertainty
+11|Physics|Physics|Motion in a Straight Line|Position and displacement;Velocity and acceleration;Graphs;Uniform-acceleration equations
+11|Physics|Physics|Motion in a Plane|Vectors;Projectile motion;Relative velocity;Uniform circular motion
+11|Physics|Physics|Laws of Motion|Newton's laws;Momentum;Friction;Circular-motion dynamics
+11|Physics|Physics|Work Energy and Power|Work-energy theorem;Kinetic and potential energy;Conservation;Collisions;Power
+11|Physics|Physics|System of Particles and Rotational Motion|Centre of mass;Torque;Angular momentum;Moment of inertia;Rotational dynamics
+11|Physics|Physics|Gravitation|Universal gravitation;Kepler's laws;Gravitational potential;Escape speed;Satellites
+11|Physics|Physics|Mechanical Properties of Solids|Stress and strain;Elastic moduli;Elastic energy
+11|Physics|Physics|Mechanical Properties of Fluids|Pressure;Buoyancy;Continuity;Bernoulli principle;Viscosity;Surface tension
+11|Physics|Physics|Thermal Properties of Matter|Temperature;Expansion;Calorimetry;Phase changes;Heat transfer
+11|Physics|Physics|Thermodynamics|Thermal equilibrium;First law;Thermodynamic processes;Second law
+11|Physics|Physics|Kinetic Theory|Ideal gas;Molecular speeds;Degrees of freedom;Equipartition;Heat capacities
+11|Physics|Physics|Oscillations|Simple harmonic motion;Spring systems;Pendulum;Energy
+11|Physics|Physics|Waves|Travelling waves;Superposition;Standing waves;Strings and pipes;Beats
+12|Physics|Physics|Electric Charges and Fields|Coulomb's law;Electric fields;Dipoles;Electric flux;Gauss's law
+12|Physics|Physics|Electrostatic Potential and Capacitance|Potential;Equipotentials;Potential energy;Capacitors;Dielectrics
+12|Physics|Physics|Current Electricity|Drift and mobility;Resistivity;Cells;Kirchhoff's rules;Wheatstone bridge
+12|Physics|Physics|Moving Charges and Magnetism|Lorentz force;Motion in fields;Biot-Savart law;Ampere's law;Galvanometer
+12|Physics|Physics|Magnetism and Matter|Magnetic dipoles;Magnetisation;Magnetic materials
+12|Physics|Physics|Electromagnetic Induction|Flux;Faraday's laws;Lenz's law;Inductance
+12|Physics|Physics|Alternating Current|AC phasors;Reactance;RLC circuits;Resonance;Power;Transformers
+12|Physics|Physics|Electromagnetic Waves|Displacement current;EM spectrum;Wave properties;Uses
+12|Physics|Physics|Ray Optics and Optical Instruments|Reflection;Refraction;Total internal reflection;Lenses;Prisms;Optical instruments
+12|Physics|Physics|Wave Optics|Wavefronts;Interference;Young's experiment;Diffraction
+12|Physics|Physics|Dual Nature of Radiation and Matter|Photoelectric effect;Photon energy;de Broglie waves
+12|Physics|Physics|Atoms|Rutherford model;Bohr model;Hydrogen spectra
+12|Physics|Physics|Nuclei|Nuclear structure;Mass defect;Binding energy;Fission;Fusion
+12|Physics|Physics|Semiconductor Electronics|Energy bands;Intrinsic and extrinsic semiconductors;p-n junction;Diodes;Rectification
+11|Biology|Biology|The Living World|Living characteristics;Taxonomy;Taxonomic categories;Nomenclature
+11|Biology|Biology|Biological Classification|Five kingdoms;Monera;Protists;Fungi;Viruses;Lichens
+11|Biology|Biology|Plant Kingdom|Algae;Bryophytes;Pteridophytes;Gymnosperms;Life cycles
+11|Biology|Biology|Animal Kingdom|Classification criteria;Non-chordates;Chordates
+11|Biology|Biology|Morphology of Flowering Plants|Roots stems and leaves;Inflorescence;Flowers fruits and seeds;Plant families
+11|Biology|Biology|Anatomy of Flowering Plants|Plant tissues;Tissue systems;Root stem and leaf anatomy
+11|Biology|Biology|Structural Organisation in Animals|Animal tissues;Organ systems;Frog morphology and anatomy
+11|Biology|Biology|Cell The Unit of Life|Cell theory;Prokaryotes;Eukaryotes;Cell organelles
+11|Biology|Biology|Biomolecules|Primary and secondary metabolites;Proteins;Carbohydrates;Lipids;Nucleic acids;Enzymes
+11|Biology|Biology|Cell Cycle and Cell Division|Cell-cycle phases;Mitosis;Meiosis;Significance
+11|Biology|Biology|Photosynthesis in Higher Plants|Pigments;Light reactions;Electron transport;Calvin cycle;C4 pathway;Photorespiration
+11|Biology|Biology|Respiration in Plants|Glycolysis;Fermentation;TCA cycle;Electron transport;Respiratory quotient
+11|Biology|Biology|Plant Growth and Development|Growth;Differentiation;Growth regulators
+11|Biology|Biology|Breathing and Exchange of Gases|Respiratory organs;Mechanism of breathing;Gas exchange and transport;Regulation
+11|Biology|Biology|Body Fluids and Circulation|Blood;Lymph;Heart;Cardiac cycle;Double circulation
+11|Biology|Biology|Excretory Products and their Elimination|Excretion modes;Nephron;Urine formation;Counter-current mechanism;Regulation
+11|Biology|Biology|Locomotion and Movement|Muscle contraction;Skeletal system;Joints;Disorders
+11|Biology|Biology|Neural Control and Coordination|Neurons;Impulse conduction;Synapses;Central nervous system
+11|Biology|Biology|Chemical Coordination and Integration|Endocrine glands;Hormones;Feedback;Disorders
+12|Biology|Biology|Sexual Reproduction in Flowering Plants|Gametophytes;Pollination;Double fertilisation;Seed and fruit;Apomixis
+12|Biology|Biology|Human Reproduction|Gametogenesis;Menstrual cycle;Fertilisation;Pregnancy;Parturition;Lactation
+12|Biology|Biology|Reproductive Health|Reproductive healthcare;Contraception;STIs;Infertility;Assisted reproduction
+12|Biology|Biology|Principles of Inheritance and Variation|Mendelian inheritance;Extensions;Linkage;Sex determination;Genetic disorders
+12|Biology|Biology|Molecular Basis of Inheritance|DNA and RNA;Replication;Transcription;Genetic code;Translation;Gene regulation
+12|Biology|Biology|Evolution|Evidence;Natural selection;Hardy-Weinberg equilibrium;Human evolution
+12|Biology|Biology|Human Health and Disease|Pathogens;Immunity;Vaccines;Cancer;Drug and alcohol abuse
+12|Biology|Biology|Microbes in Human Welfare|Food products;Industrial products;Sewage treatment;Biogas;Biocontrol;Biofertilisers
+12|Biology|Biology|Biotechnology Principles and Processes|Recombinant DNA;Restriction enzymes;Vectors;PCR;Bioprocessing
+12|Biology|Biology|Biotechnology and its Applications|Agricultural uses;Medical uses;Transgenic organisms;Biosafety;Ethics
+12|Biology|Biology|Organisms and Populations|Population attributes;Growth models;Interactions
+12|Biology|Biology|Ecosystem|Productivity;Decomposition;Energy flow;Ecological pyramids
+12|Biology|Biology|Biodiversity and Conservation|Diversity patterns;Loss;Conservation;Protected areas
+11|Mathematics|Mathematics|Sets|Representation;Subsets;Set operations;Venn diagrams
+11|Mathematics|Mathematics|Relations and Functions|Cartesian products;Relations;Domain and range;Types of functions;Algebra of functions
+11|Mathematics|Mathematics|Trigonometric Functions|Radians;Unit circle;Identities;Graphs
+11|Mathematics|Mathematics|Complex Numbers and Quadratic Equations|Imaginary unit;Algebra;Complex plane;Quadratic roots
+11|Mathematics|Mathematics|Linear Inequalities|Algebraic solutions;Interval notation;Number-line representation
+11|Mathematics|Mathematics|Permutations and Combinations|Counting principle;Factorials;Permutations;Combinations
+11|Mathematics|Mathematics|Binomial Theorem|Expansion;General term;Middle terms
+11|Mathematics|Mathematics|Sequences and Series|Arithmetic sequences;Geometric sequences;Geometric sums;Means
+11|Mathematics|Mathematics|Straight Lines|Slope;Line equations;Angles between lines;Distance from a line
+11|Mathematics|Mathematics|Conic Sections|Circle;Parabola;Ellipse;Hyperbola
+11|Mathematics|Mathematics|Introduction to Three-dimensional Geometry|Coordinates;Distance;Section relationships
+11|Mathematics|Mathematics|Limits and Derivatives|Limits;Standard limits;Derivative as rate;Differentiation rules
+11|Mathematics|Mathematics|Statistics|Range;Mean deviation;Variance;Standard deviation
+11|Mathematics|Mathematics|Probability|Sample spaces;Events;Axiomatic probability;Event operations
+11|Mathematics|Formative enrichment|Principle of Mathematical Induction|Base case;Inductive hypothesis;Inductive step
+12|Mathematics|Mathematics|Relations and Functions|Types of relations;Equivalence;One-one and onto functions
+12|Mathematics|Mathematics|Inverse Trigonometric Functions|Principal values;Domains and ranges;Graphs
+12|Mathematics|Mathematics|Matrices|Types;Operations;Transpose;Inverse;Applications
+12|Mathematics|Mathematics|Determinants|Evaluation;Properties;Minors and cofactors;Area;Linear systems
+12|Mathematics|Mathematics|Continuity and Differentiability|Continuity;Chain rule;Implicit differentiation;Logarithmic differentiation;Second derivatives
+12|Mathematics|Mathematics|Applications of Derivatives|Rates;Increasing and decreasing functions;Maxima and minima
+12|Mathematics|Mathematics|Integrals|Antiderivatives;Substitution;Partial fractions;Integration by parts;Definite integrals
+12|Mathematics|Mathematics|Applications of Integrals|Areas under curves;Bounded areas
+12|Mathematics|Mathematics|Differential Equations|Order and degree;Variable separation;Homogeneous equations;Linear equations
+12|Mathematics|Mathematics|Vector Algebra|Vector operations;Scalar product;Vector product;Geometric applications
+12|Mathematics|Mathematics|Three-dimensional Geometry|Lines in space;Direction ratios;Angles;Skew lines;Shortest distance
+12|Mathematics|Mathematics|Linear Programming|Constraints;Feasible region;Objective function;Graphical optimisation
+12|Mathematics|Mathematics|Probability|Conditional probability;Independence;Total probability;Bayes's theorem
+11|Social Science|History|Writing and City Life|Mesopotamia;Urbanisation;Writing;Sources
+11|Social Science|History|An Empire Across Three Continents|Roman society;State;Economy;Historical evidence
+11|Social Science|History|Nomadic Empires|Mongols;Genghis Khan;Administration;Sources
+11|Social Science|History|The Three Orders|Feudal society;Clergy nobility and peasants;Agrarian change
+11|Social Science|History|Changing Cultural Traditions|Renaissance;Humanism;Arts;Scientific change;Reformation
+11|Social Science|History|Displacing Indigenous Peoples|Colonial expansion;Indigenous societies;Settler economies;Historical perspectives
+11|Social Science|History|Paths to Modernisation|China;Japan;Industrial and political change;Comparisons
+12|Social Science|History|Bricks Beads and Bones|Harappan archaeology;Urban planning;Crafts and trade;Interpretation
+12|Social Science|History|Kings Farmers and Towns|Early states;Economy;Inscriptions;Sources
+12|Social Science|History|Kinship Caste and Class|Social histories;Texts;Kinship;Varna and gender
+12|Social Science|History|Thinkers Beliefs and Buildings|Buddhism;Jainism;Stupas;Religious traditions
+12|Social Science|History|Through the Eyes of Travellers|Al-Biruni;Ibn Battuta;Bernier;Comparison of accounts
+12|Social Science|History|Bhakti-Sufi Traditions|Devotional movements;Saints;Sufi traditions;Sources
+12|Social Science|History|An Imperial Capital Vijayanagara|City layout;Architecture;Sacred and royal centres;Sources
+12|Social Science|History|Peasants Zamindars and the State|Agrarian society;Revenue;Zamindars;Ain-i Akbari
+12|Social Science|History|Colonialism and the Countryside|Revenue systems;Rural change;Resistance;Official records
+12|Social Science|History|Rebels and the Raj|1857 revolt;Causes;Participation;Representations
+12|Social Science|History|Mahatma Gandhi and the Nationalist Movement|Mass movements;Non-cooperation;Civil disobedience;Sources
+12|Social Science|History|Framing the Constitution|Constituent Assembly;Debates;Rights;Federalism;Representation
+11|Social Science|Geography|Geography as a Discipline|Branches;Spatial perspective;Human-environment relationships
+11|Social Science|Geography|The Origin and Evolution of the Earth|Origin theories;Earth evolution;Atmosphere;Life
+11|Social Science|Geography|Interior of the Earth|Seismic waves;Layers;Volcanism
+11|Social Science|Geography|Distribution of Oceans and Continents|Continental drift;Seafloor spreading;Plate tectonics
+11|Social Science|Geography|Geomorphic Processes|Endogenic processes;Exogenic processes;Weathering;Mass movement;Erosion
+11|Social Science|Geography|Landforms and their Evolution|Rivers;Glaciers;Wind;Groundwater;Coasts
+11|Social Science|Geography|Composition and Structure of Atmosphere|Gases;Aerosols;Atmospheric layers
+11|Social Science|Geography|Solar Radiation Heat Balance and Temperature|Insolation;Heat budget;Temperature patterns
+11|Social Science|Geography|Atmospheric Circulation and Weather Systems|Pressure belts;Winds;Air masses;Cyclones
+11|Social Science|Geography|Water in the Atmosphere|Humidity;Condensation;Clouds;Precipitation
+11|Social Science|Geography|World Climate and Climate Change|Climate classification;Greenhouse effect;Climate change
+11|Social Science|Geography|Water Oceans|Ocean relief;Temperature;Salinity
+11|Social Science|Geography|Movements of Ocean Water|Waves;Tides;Currents
+11|Social Science|Geography|Biodiversity and Conservation|Ecosystems;Biodiversity loss;Conservation
+11|Social Science|Geography|India Location|Extent;Neighbourhood;Location and significance
+11|Social Science|Geography|Structure and Physiography|Geological structure;Physiographic divisions
+11|Social Science|Geography|Drainage System|Himalayan rivers;Peninsular rivers;Drainage patterns
+11|Social Science|Geography|Climate|Monsoon;Seasons;Regional variation
+11|Social Science|Geography|Natural Vegetation|Vegetation types;Distribution;Conservation
+11|Social Science|Geography|Natural Hazards and Disasters|Floods;Droughts;Earthquakes;Cyclones;Management
+11|Social Science|Geography Practical|Introduction to Maps|Map components;Symbols;Directions
+11|Social Science|Geography Practical|Map Scale|Scale types;Conversions;Distance measurement
+11|Social Science|Geography Practical|Latitude Longitude and Time|Coordinates;Local time;Standard time
+11|Social Science|Geography Practical|Map Projections|Projection properties;Distortion;Uses
+11|Social Science|Geography Practical|Topographical Maps|Contours;Relief;Drainage;Settlements
+11|Social Science|Geography Practical|Introduction to Remote Sensing|Sensors;Resolution;Satellite images;Interpretation
+12|Social Science|Geography|Human Geography Nature and Scope|Approaches;Human-environment interaction;Fields
+12|Social Science|Geography|The World Population Distribution Density and Growth|Distribution;Density;Growth;Demographic transition
+12|Social Science|Geography|Human Development|Human-development approach;Indicators;Comparisons
+12|Social Science|Geography|Primary Activities|Gathering;Pastoralism;Agriculture;Mining
+12|Social Science|Geography|Secondary Activities|Manufacturing;Industrial location;Industrial regions
+12|Social Science|Geography|Tertiary Activities|Services;Quaternary activities;Quinary activities
+12|Social Science|Geography|Transport and Communication World|Transport modes;Networks;Communication
+12|Social Science|Geography|International Trade World|Trade patterns;Ports;Trade balance
+12|Social Science|Geography|Population Distribution Density Growth and Composition India|Distribution;Density;Growth;Composition
+12|Social Science|Geography|Human Settlements|Rural settlements;Urban settlements;Urbanisation
+12|Social Science|Geography|Land Resources and Agriculture|Land use;Cropping;Irrigation;Agricultural issues
+12|Social Science|Geography|Water Resources|Availability;Use;Conservation;Watershed management
+12|Social Science|Geography|Mineral and Energy Resources|Distribution;Conventional energy;Renewable energy
+12|Social Science|Geography|Planning and Sustainable Development in Indian Context|Regional planning;Case studies;Sustainability
+12|Social Science|Geography|Transport and Communication India|Roads;Railways;Waterways;Airways;Communication
+12|Social Science|Geography|International Trade India|Trade composition;Ports;Airports
+12|Social Science|Geography|Geographical Perspective on Selected Issues and Problems|Pollution;Waste;Urban issues;Land degradation
+12|Social Science|Geography Practical|Data Its Source and Compilation|Primary data;Secondary data;Data quality
+12|Social Science|Geography Practical|Data Processing|Central tendency;Dispersion;Interpretation
+12|Social Science|Geography Practical|Graphical Representation of Data|Graphs;Diagrams;Thematic maps
+12|Social Science|Geography Practical|Spatial Information Technology|GIS;Layers;Spatial data;Applications
+11|Social Science|Economics|Introduction to Statistics for Economics|Economics and statistics;Uses;Limits
+11|Social Science|Economics|Collection Organisation and Presentation of Data|Sources;Sampling;Classification;Tables;Diagrams
+11|Social Science|Economics|Statistical Tools and Interpretation|Mean median and mode;Correlation;Index numbers
+11|Social Science|Economics|Introduction to Microeconomics|Scarcity;Opportunity cost;Production possibility frontier;Economic systems
+11|Social Science|Economics|Consumer's Equilibrium and Demand|Utility;Indifference curves;Budget constraint;Demand;Elasticity
+11|Social Science|Economics|Producer Behaviour and Supply|Production function;Returns;Costs;Revenue;Supply
+11|Social Science|Economics|Perfect Competition Price Determination and Simple Applications|Market equilibrium;Demand and supply shifts;Price ceilings;Price floors
+12|Social Science|Economics|National Income and Related Aggregates|Circular flow;GDP and related aggregates;Value added;Income method;Expenditure method;Real and nominal GDP
+12|Social Science|Economics|Money and Banking|Money supply;Commercial banks;Central bank;Credit creation
+12|Social Science|Economics|Determination of Income and Employment|Aggregate demand;Consumption;Saving;Multiplier;Excess and deficient demand
+12|Social Science|Economics|Government Budget and the Economy|Objectives;Receipts;Expenditure;Deficits;Fiscal policy
+12|Social Science|Economics|Balance of Payments|Current and capital accounts;Exchange rates;Foreign-exchange market
+12|Social Science|Economics|Development Experience 1947-90 and Economic Reforms since 1991|Planning;Agriculture;Industry;Trade;Liberalisation privatisation and globalisation
+12|Social Science|Economics|Current Challenges Facing Indian Economy|Human capital;Rural development;Employment;Sustainable development
+12|Social Science|Economics|Development Experience of India Comparison with Neighbours|India China and Pakistan;Development indicators;Comparative strategies
+11|Social Science|Political Science|Constitution Why and How|Need for constitution;Making;Constitutional philosophy
+11|Social Science|Political Science|Rights in the Indian Constitution|Fundamental rights;Writs;Directive principles;Rights protection
+11|Social Science|Political Science|Election and Representation|Electoral systems;Representation;Electoral reform
+11|Social Science|Political Science|Executive|Parliamentary executive;President;Prime Minister;Council of Ministers
+11|Social Science|Political Science|Legislature|Parliament;Lawmaking;Committees;Accountability
+11|Social Science|Political Science|Judiciary|Judicial independence;Jurisdiction;Judicial review;Public-interest litigation
+11|Social Science|Political Science|Federalism|Division of powers;Centre-state relations;Asymmetry
+11|Social Science|Political Science|Local Governments|Decentralisation;Panchayats;Municipalities
+11|Social Science|Political Science|Constitution as a Living Document|Amendment;Interpretation;Constitutional change
+11|Social Science|Political Science|The Philosophy of the Constitution|Values;Justice;Equality;Secularism
+11|Social Science|Political Theory|Political Theory An Introduction|Meaning;Political concepts;Reasoned argument
+11|Social Science|Political Theory|Freedom|Liberty;Constraints;Harm principle
+11|Social Science|Political Theory|Equality|Equal opportunities;Social inequalities;Affirmative action
+11|Social Science|Political Theory|Social Justice|Distributive justice;Fairness;Access
+11|Social Science|Political Theory|Rights|Claims;Legal recognition;Responsibilities
+11|Social Science|Political Theory|Citizenship|Membership;Rights and duties;Universal citizenship
+11|Social Science|Political Theory|Nationalism|Nation;Self-determination;Pluralism
+11|Social Science|Political Theory|Secularism|State and religion;Indian secularism;Comparisons
+12|Social Science|Political Science World|The End of Bipolarity|Soviet collapse;Successor states;Consequences
+12|Social Science|Political Science World|Contemporary Centres of Power|European Union;ASEAN;China;Other centres
+12|Social Science|Political Science World|Contemporary South Asia|Democracy;Regional conflicts;Cooperation
+12|Social Science|Political Science World|International Organisations|United Nations;Reforms;Global governance
+12|Social Science|Political Science World|Security in the Contemporary World|Traditional security;Non-traditional security;Cooperation
+12|Social Science|Political Science World|Environment and Natural Resources|Global environmental issues;Common resources;Equity
+12|Social Science|Political Science World|Globalisation|Economic dimension;Political dimension;Cultural dimension;Debates
+12|Social Science|Political Science India|Challenges of Nation Building|Partition;Integration;Reorganisation of states
+12|Social Science|Political Science India|Era of One-Party Dominance|Early elections;Congress system;Opposition
+12|Social Science|Political Science India|Politics of Planned Development|Planning debates;Agriculture;Industry
+12|Social Science|Political Science India|India's External Relations|Non-alignment;Neighbourhood;Wars and peace
+12|Social Science|Political Science India|Challenges to and Restoration of the Congress System|Political succession;Elections of 1967;Coalitions;Congress split
+12|Social Science|Political Science India|The Crisis of Democratic Order|Emergency;Civil liberties;Institutional lessons
+12|Social Science|Political Science India|Regional Aspirations|Accommodation;Autonomy;Regional movements
+12|Social Science|Political Science India|Recent Developments in Indian Politics|Coalition era;Political changes;Consensus and contestation

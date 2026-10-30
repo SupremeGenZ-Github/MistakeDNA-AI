@@ -1,0 +1,4 @@
+# Optional CPU training environment only. Not installed in the Render runtime.
+--index-url https://download.pytorch.org/whl/cpu
+torch==2.15.0+cpu
+numpy==2.3.5
